@@ -1,0 +1,13 @@
+Package: com.Polyphian.Modern13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: /Modern13.deb
+Size: 32999390
+MD5sum: fcb546695d0ee67bec49600b0a826732
+SHA1: cc5e016dab730633da585a70dbccce8c2c77b195
+SHA256: 6b08513d34cb5461535d73bd9aa597c483f82e7ffdf798e3661f906134f83e81
+Section: Themes
+Description: A continuation of Modern 12 by Xeviks
+Author: Polyphian
+Name: Modern13
