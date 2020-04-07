@@ -15,7 +15,16 @@
 	<descriptionlist>
 		<description>A continuation of Modern 12 theme by Xeviks.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+    <screenshots>
+        <screenshot>
+            <description>Light mode</description>
+            <image>01.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Dark mode</description>
+            <image>02.png</image>
+        </screenshot>
+    </screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
