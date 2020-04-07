@@ -1,11 +1,11 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>com.Polyphian.Modern13</id>
+	<name>Modern13</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>A continuation of Modern 12 theme by Xeviks.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
