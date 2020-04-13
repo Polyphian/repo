@@ -1,5 +1,22 @@
 <changelog>
     <changes>
+        <version>1.2</version>
+        <change>Philips Hue</change>
+        <change>Netflix</change>
+        <change>Taco Bell</change>
+        <change>Burger King</change>
+        <change>McDonalds</change>
+        <change>Subway</change>
+        <change>Chick-fil-a</change>
+        <change>The Weather Channel</change>
+        <change>K Health</change>
+        <change>Disney+</change>
+        <change>CBS</change>
+        <change>PBS</change>
+        <change>Pantaya</change>
+        <change>Tinder</change>
+    </changes>
+    <changes>
         <version>1.1</version>
         <change>Google</change>
         <change>Google Photos</change>
