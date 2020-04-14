@@ -1,0 +1,21 @@
+<package>
+	<id>com.Polyphian.Modern13D</id>
+	<name>Modern13 Light Alts</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Dark alternatives of Modern13 Main icons</description>
+	</descriptionlist>
+	<changelog>
+		<change>beta release</change>
+	</changelog>
+	<links></links>
+</package>
