@@ -1,7 +1,7 @@
 <package>
 	<id>com.Polyphian.Modern13L</id>
 	<name>Modern13 Light Alts</name>
-	<version>0.1</version>
+	<version>0.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
