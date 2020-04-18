@@ -1,7 +1,7 @@
 <package>
 	<id>com.Polyphian.Modern13</id>
 	<name>Modern13</name>
-	<version>1.3.1</version>
+	<version>1.3.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -17,6 +17,10 @@
 
     <screenshots>
         <screenshot>
+            <description>Version 1.3.2</description>
+            <image>1-3.png</image>
+        </screenshot>
+        <screenshot>
             <description>Light mode</description>
             <image>01.png</image>
         </screenshot>
@@ -27,6 +31,7 @@
     </screenshots>
 	<changelog>
 		<change>Dark and Light versions added for ALL icons, with uniform backgrounds. Every white icon now has the same base, same for black. Requested by a few people. -- 1.3.1 adds badge as it's own theme, to be used with any config.
+            1.3.2 unifies all icon bevels and shadows.
         </change>
 	</changelog>
 	<links></links>
