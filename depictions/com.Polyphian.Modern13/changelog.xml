@@ -9,7 +9,7 @@
         <version>1.3.2</version>
         <change>1.3.2 unifies all icon bevels and shadows. Light and dark icons now are slightly thicker.</change>
         <version>1.3.3</version>
-        <change>1.3.3 unifies all icon bevels and shadows. Light and dark icons now are slightly thicker. Fixed ugly edges introduced in 1.3.2.</change>
+        <change>Fixed ugly edges introduced in 1.3.2.</change>
     </changes>
     <changes>
         <version>1.2</version>
