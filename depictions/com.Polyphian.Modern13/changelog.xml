@@ -1,6 +1,24 @@
 
 <changelog>
     <changes>
+        <version>1.4</version>
+        <change>Mixer</change>
+        <change>Musixmatch</change>
+        <change>OneDrive</change>
+        <change>Installer 5</change>
+        <change>Truecaller</change>
+        <change>Altstore</change>
+        <change>Snowboard</change>
+        <change>Triller</change>
+        <change>Google Translate</change>
+        <change>Outlook</change>
+        <change>Checkrain</change>
+        <change>NewTerm2</change>
+        <change>iConnect Hue</change>
+    </changes>
+    
+    
+    <changes>
         <version>1.3</version>
         <change>Dark versions added for ALL icons</change>
         <change>Light versions added for ALL icons</change>
