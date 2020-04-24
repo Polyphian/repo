@@ -1,0 +1,40 @@
+<package>
+	<id>com.Polyphian.Modern13S</id>
+	<name>Modern13 Shadows</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Icon Shadows to go with Modern 13. Icon Effects Snowboard Extension required!</description>
+	</descriptionlist>
+
+    <screenshots>
+
+        <screenshot>
+            <description>Close Shadows</description>
+            <image>Close.png</image>
+        </screenshot>
+
+        <screenshot>
+            <description>Far Shadows</description>
+            <image>Far.png</image>
+        </screenshot>
+
+        <screenshot>
+            <description>Farther Shadows</description>
+            <image>Farther.png</image>
+        </screenshot>
+
+    </screenshots>
+	<changelog>
+		<change>1.0 initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,29 @@
+Package: com.Polyphian.Modern13
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/Modern13.deb
+Size: 34024328
+MD5sum: dbbd6f772c69ff6c8bab5c24821a0b1b
+SHA1: 55b506e75ca1e48f3b8406b9718b20b9b5c3a38f
+SHA256: 33f136488555238eb3c9b0655a7a6f549a3a74dd2f213a0fb07b13faa2aab66d
+Section: Themes
+Description: A continuation of Modern12 icon theme by @Xeviks
+Author: Polyphian & Xeviks
+Name: Modern13
+Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13
+
+Package: com.Polyphian.Modern13S
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/Modern13S.deb
+Size: 792230
+MD5sum: c5875476b2b72a389037c33eca0194a9
+SHA1: a974333979069d89ef3f72dbd6f0cbfe93919385
+SHA256: 61affa298719a51705088782ff4122301a03f8bf7334b2686acb2914a8b7ebedSection: Themes
+Description: Icon Effects (Shadows)
+Author: Polyphian
+Name: Modern13 Shadows
+Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13S
+
