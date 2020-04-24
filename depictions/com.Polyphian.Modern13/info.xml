@@ -1,7 +1,7 @@
 <package>
 	<id>com.Polyphian.Modern13</id>
 	<name>Modern13</name>
-	<version>1.4.2</version>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -30,8 +30,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>1.4 includes 13 new icons, polish to a few icons, and adds Red Youtube for main theme.
-        </change>
+		<change>1.5 brings 20 new icons, refactored the bottom highlight on ALL icons, and general polish across the board, in Modern13's biggest update yet!</change>
 	</changelog>
 	<links></links>
 </package>

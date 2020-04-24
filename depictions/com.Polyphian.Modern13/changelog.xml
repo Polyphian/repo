@@ -1,6 +1,33 @@
 
 <changelog>
     <changes>
+        <version>1.5</version>
+        <change>General polish to all icons</change>
+        <change>Bottom highlight defined more on every icon</change>
+        <change>FireTV</change>
+        <change>Amazon Photos</change>
+        <change>Wish</change>
+        <change>Amazon Cloud</change>
+        <change>Deliveroo</change>
+        <change>Letgo</change>
+        <change>Arrive</change>
+        <change>Flex 3</change>
+        <change>H&M</change>
+        <change>Linked In</change>
+        <change>Clash Royale</change>
+        <change>Clash of Clans</change>
+        <change>Marvis (for main theme)</change>
+        <change>Apple Store</change>
+        <change>Uber</change>
+        <change>Evernote</change>
+        <change>Photoshop</change>
+        <change>Screenshot X</change>
+        <change>Crunchy Roll</change>
+        <change>Call of Duty</change>
+        <change>Bear</change>
+    </changes>
+
+    <changes>
         <version>1.4</version>
         <change>Mixer</change>
         <change>Musixmatch</change>
