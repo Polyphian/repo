@@ -1,6 +1,17 @@
 
 <changelog>
     <changes>
+
+<changes>
+        <version>1.5.1</version>
+        <change>Merge Gloss variant in to main download.</change>
+        <change>Tweaked Hue, iConnect Hue & Golf Blitz</change>
+        <change>Nest</change>
+        <change>Ring</change>
+        <change>Bank of America</change>
+            </changes>
+
+
         <version>1.5</version>
         <change>General polish to all icons</change>
         <change>Bottom highlight defined more on every icon</change>
