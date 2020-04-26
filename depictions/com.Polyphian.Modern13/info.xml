@@ -11,10 +11,21 @@
 			-->
 		</firmware>
 	</compatibility>
+	<dependencies></dependencies>
 	<descriptionlist>
 		<description>A continuation of Modern 12 theme by Xeviks.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Available in 4 styles</description>
+			<image>Styles.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Modern13</description>
+			<image>Screen1.png</image>
+		</screenshot>		
+	</screenshots>
+
    	<changelog>
 		<change>1.5 brings 20 new icons, enhanced bottom highlight on ALL icons, and general polish across the board, in Modern13's biggest update yet!</change>
 	</changelog>
