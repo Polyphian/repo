@@ -1,7 +1,5 @@
 
 <changelog>
-    <changes>
-
 <changes>
         <version>1.5.1</version>
         <change>Merge Gloss variant in to main download.</change>
@@ -9,9 +7,9 @@
         <change>Nest</change>
         <change>Ring</change>
         <change>Bank of America</change>
-            </changes>
+</changes>
 
-
+<changes>
         <version>1.5</version>
         <change>General polish to all icons</change>
         <change>Bottom highlight defined more on every icon</change>
@@ -36,9 +34,9 @@
         <change>Crunchy Roll</change>
         <change>Call of Duty</change>
         <change>Bear</change>
-    </changes>
+</changes>
 
-    <changes>
+<changes>
         <version>1.4</version>
         <change>Mixer</change>
         <change>Musixmatch</change>
@@ -55,7 +53,7 @@
         <change>iConnect Hue</change>
         <change>1.4.1 adds original Music icon back to Main theme</change>
         <change>1.4.2 significantly lowers file size by over 100%, as well as polishes a few issues</change>
-    </changes>
+</changes>
     
     
     <changes>
@@ -66,7 +64,8 @@
         <change>1.3.2 unifies all icon bevels and shadows. Light and dark icons now are slightly thicker.</change>
         <change>1.3.3 Fixed ugly edges introduced in 1.3.2.</change>
     </changes>
-    <changes>
+
+<changes>
         <version>1.2</version>
         <change>Philips Hue</change>
         <change>Netflix</change>
@@ -82,7 +81,8 @@
         <change>PBS</change>
         <change>Pantaya</change>
         <change>Tinder</change>
-    </changes>
+</changes>
+
     <changes>
         <version>1.1</version>
         <change>Google</change>
@@ -99,8 +99,8 @@
         <change>1Password</change>
         <change>GroupMe</change>
     </changes>
-    <changes>
+<changes>
 		<version>1.0</version>
 		<change>Initial release</change>
-	</changes>
+</changes>
 </changelog>
