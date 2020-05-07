@@ -24,3 +24,11 @@ body {
 }
 
 }
+
+
+
+
+<picture>
+  <source srcset="genericdark.png" media="(prefers-color-scheme: dark)" />
+  <img src="generic.png" />
+</picture>
