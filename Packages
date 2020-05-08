@@ -10,6 +10,7 @@ Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13.deb
 Size: 67389790
 MD5sum: 7560859f2605d1131bbc35c10de1e8a1
+Depiction: https://polyphian.github.io/repo/dpict/index.html
 
 Package: com.Polyphian.Modern13S
 Description: Icon Effects (Shadows)
@@ -23,4 +24,5 @@ Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13S.deb
 Size: 792258
 MD5sum: 5780226465f629f2ab925a474bb93d8a
+Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13S
 
