@@ -1,6 +1,6 @@
 Package: com.Polyphian.Modern13
 Description: A continuation of Modern12 icon theme by @Xeviks
-Version: 1.7
+Version: 1.7.1
 Name: Modern13
 Section: Themes
 Maintainer: Polyphian
@@ -8,8 +8,8 @@ Architecture: iphoneos-arm
 Author: Polyphian & Xeviks
 Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13.deb
-Size: 73110314
-MD5sum: 5dbb6bdeeb879b886180566ce737bf3b
+Size: 72842438
+MD5sum: bfadbfd504e095543d87617b10f9ad9d
 Depiction: https://polyphian.github.io/repo/dpict/index.html
 
 Package: com.Polyphian.Modern13S
