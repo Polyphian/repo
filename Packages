@@ -8,8 +8,8 @@ Architecture: iphoneos-arm
 Author: Polyphian & Xeviks
 Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13.deb
-Size: 78671282
-MD5sum: 01454e17724e11bfb01fa4a758214e06
+Size: 79012424
+MD5sum: 18c9c02a86bac96cf65ab7e36c4966f2
 Depiction: https://polyphian.github.io/repo/dpict/index.html
 
 Package: com.Polyphian.Modern13S
