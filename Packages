@@ -26,3 +26,15 @@ Size: 792258
 MD5sum: 5780226465f629f2ab925a474bb93d8a
 Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13S
 
+Package: com.Polyphian.Arcade
+Description: Arcade style icons for games.
+Version: 0.1
+Name: Arcade
+Section: Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/Arcade.deb
+Size: 2035898
+MD5sum: 13f1d6e512c275ad08f5c3ef9f516d6c
+Depiction: https://polyphian.github.io/repo/dpict/arcade/index.html
