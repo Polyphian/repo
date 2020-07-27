@@ -28,13 +28,13 @@ Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13
 
 Package: com.Polyphian.Arcade
 Description: Arcade style icons for games.
-Version: 0.1.1
+Version: 0.2
 Name: Arcade
 Section: Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/Arcade.deb
-Size: 2035964
-MD5sum: b735aa0638962a948ae8b6322a6267f2
+Size: 4682938
+MD5sum: 53225953933adde460834862759f0e1e
 Depiction: https://polyphian.github.io/repo/dpict/arcade/index.html
