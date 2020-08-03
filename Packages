@@ -41,13 +41,13 @@ Depiction: https://polyphian.github.io/repo/dpict/arcade/index.html
 
 Package: com.Polyphian.ChonkyLite
 Description: Thicc, smoove chonky icons.
-Version: 0.4
+Version: 0.5
 Name: Chonky Lite
 Section: Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/ChonkyLite.deb
-Size: 3095910
-MD5sum: ebc3dbc6e829508c37e62c84cdbb0c4d
+Size: 3040872
+MD5sum: 81fa332fbf96b983ee0e660eb1f4370a
 Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
