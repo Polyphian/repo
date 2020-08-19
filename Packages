@@ -54,13 +54,13 @@ Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
 
 Package: com.Polyphian.Sixy
 Description: iOS 6 Keyboards for Laetus
-Version: 0.1
+Version: 0.2
 Name: Sixy
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/Sixy.deb
-Size: 4515202
-MD5sum: 48153a202912d802c584c00baf178911
+Size: 5678336
+MD5sum: 23981ac1baae45c4a1113f8fa6c8fab2
 Depiction: https://polyphian.github.io/repo/dpict/sixy/index.html
