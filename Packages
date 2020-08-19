@@ -51,3 +51,16 @@ Filename: ./debs/ChonkyLite.deb
 Size: 3055238
 MD5sum: 17a5384efeada26f6c5c33e6c1e49541
 Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
+
+Package: com.Polyphian.Sixy
+Description: iOS 6 Keyboards for Laetus
+Version: 0.1
+Name: Sixy
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/Sixy.deb
+Size: 4515202
+MD5sum: 48153a202912d802c584c00baf178911
+Depiction: https://polyphian.github.io/repo/dpict/sixy/index.html
