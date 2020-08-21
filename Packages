@@ -64,3 +64,68 @@ Filename: ./debs/Sixy.deb
 Size: 5678336
 MD5sum: 23981ac1baae45c4a1113f8fa6c8fab2
 Depiction: https://polyphian.github.io/repo/dpict/sixy/index.html
+
+Package: com.Polyphian.MacBookPreset
+Description: MacBook Keyboard preset for Laetus
+Version: 0.1
+Name: MacBook Preset
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookPreset.deb
+Size: 1038
+MD5sum: ce52f0597a5a07e5167676aba7060137
+Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
+
+Package: com.Polyphian.MacBookGray
+Description: MacBook Keyboard theme for Laetus
+Version: 0.1
+Name: MacBook Gray
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookGray.deb
+Size: 16778080
+MD5sum: 0c1129cc9fbbff0c71e68d5261554b73
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGray.html
+
+Package: com.Polyphian.MacBookRose
+Description: MacBook Keyboard theme for Laetus
+Version: 0.1
+Name: MacBook Rose
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookRose.deb
+Size: 5825526
+MD5sum: 09b3aba42b0f578d9548585f9be8c95a
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
+
+Package: com.Polyphian.MacBookGold
+Description: MacBook Keyboard theme for Laetus
+Version: 0.1
+Name: MacBook Gold
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookGold.deb
+Size: 18236050
+MD5sum: b9b78adf085f99fea47f78ef10c887b1
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
+
+Package: com.Polyphian.MacBookSilver
+Description: MacBook Keyboard theme for Laetus
+Version: 0.1
+Name: MacBook Silver
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookSilver.deb
+Size: 18716278
+MD5sum: 7b2b97b12b28272d8378e312be162925
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookSilver.html
