@@ -1,0 +1,16 @@
+a:hover {
+  color: #ff956b;
+  text-decoration: underline;
+}
+
+a {
+  color: #ff956b;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: none;
+}
+

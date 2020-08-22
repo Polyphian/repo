@@ -80,7 +80,7 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
 
 Package: com.Polyphian.MacBookGray
 Description: MacBook Keyboard theme for Laetus
-Version: 0.1
+Version: 0.2
 Name: MacBook Gray
 Section: Laetus Themes
 Maintainer: Polyphian
@@ -93,7 +93,7 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGray.html
 
 Package: com.Polyphian.MacBookRose
 Description: MacBook Keyboard theme for Laetus
-Version: 0.1
+Version: 0.2
 Name: MacBook Rose
 Section: Laetus Themes
 Maintainer: Polyphian
@@ -106,7 +106,7 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
 
 Package: com.Polyphian.MacBookGold
 Description: MacBook Keyboard theme for Laetus
-Version: 0.1
+Version: 0.2
 Name: MacBook Gold
 Section: Laetus Themes
 Maintainer: Polyphian
@@ -119,7 +119,7 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
 
 Package: com.Polyphian.MacBookSilver
 Description: MacBook Keyboard theme for Laetus
-Version: 0.1
+Version: 0.2
 Name: MacBook Silver
 Section: Laetus Themes
 Maintainer: Polyphian
@@ -129,3 +129,42 @@ Filename: ./debs/MacBookSilver.deb
 Size: 18716278
 MD5sum: 7b2b97b12b28272d8378e312be162925
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookSilver.html
+
+Package: com.Polyphian.MacBookBlack
+Description: MacBook Keyboard theme for Laetus
+Version: 0.2
+Name: MacBook Black
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookBlack.deb
+Size: 7353682
+MD5sum: 751c36bd359928538f1cfb9c4277e4cc
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
+
+Package: com.Polyphian.MacBookWhite
+Description: MacBook Keyboard theme and preset for Laetus
+Version: 0.2
+Name: MacBook White
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookWhite.deb
+Size: 6939554
+MD5sum: d1b87d5560ae4e365a8f403fdc72cc80
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
+
+Package: com.Polyphian.MacBookRed
+Description: MacBook Keyboard theme for Laetus
+Version: 0.2
+Name: MacBook Red
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookRed.deb
+Size: 8823170
+MD5sum: ebc6388bb17aca520a8428641a9d65ed
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRed.html
