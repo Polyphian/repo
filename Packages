@@ -10,6 +10,8 @@ Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13.deb
 Size: 83756490
 MD5sum: 9bf86b6f25b278854e97d629d18e7ff9
+SHA1sum: 2da6dc4b02f5ffc7c482ad8a9d75fda5118fa85d
+SHA256sum: e1d19e9e41b8d04e40e18e0613c3065ea07b8b233711dd2b529191c98d6388c4
 Depiction: https://polyphian.github.io/repo/dpict/index.html
 
 Package: com.Polyphian.Modern13S
@@ -24,6 +26,8 @@ Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13S.deb
 Size: 792258
 MD5sum: 5780226465f629f2ab925a474bb93d8a
+SHA1sum: efc78914148af8006f733649ae70bcc15f916c13
+SHA256sum: e136e6040e94ebd9701bb09f749a8f90013501f6deef0161a2dee873664adbb4
 Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13S
 
 Package: com.Polyphian.Arcade
@@ -37,6 +41,8 @@ Author: Polyphian
 Filename: ./debs/Arcade.deb
 Size: 5827636
 MD5sum: 443a7e0cf977de4be2b89222ce4ee195
+SHA1sum: c23396d27ba73e9cc40813ac52ff04cac9914b0f
+SHA256sum: 9c9da121f512f33bd097082d1ad15c4ffe1e0fb2999b5d47ce39429038e6446a
 Depiction: https://polyphian.github.io/repo/dpict/arcade/index.html
 
 Package: com.Polyphian.ChonkyLite
@@ -50,6 +56,8 @@ Author: Polyphian
 Filename: ./debs/ChonkyLite.deb
 Size: 3055238
 MD5sum: 17a5384efeada26f6c5c33e6c1e49541
+SHA1sum: ba9dc55581771f1896da4355a907f12ee63a201e
+SHA256sum: 9bc02eecef9fab9e0ac3ed74af62aa8ae70dec2f571411e6052b7a52989f80e0
 Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
 
 Package: com.Polyphian.Sixy
@@ -63,6 +71,8 @@ Author: Polyphian
 Filename: ./debs/Sixy.deb
 Size: 5678336
 MD5sum: 23981ac1baae45c4a1113f8fa6c8fab2
+SHA1sum: 4dd3637006acf9fde658a17a5c7148d61e619fa7
+SHA256sum: 84898df195db3919a281b76ddb0aaf0a1ca95e4a31bed2b5e8b247932be77435
 Depiction: https://polyphian.github.io/repo/dpict/sixy/index.html
 
 Package: com.Polyphian.MacBookPreset
@@ -76,6 +86,8 @@ Author: Polyphian
 Filename: ./debs/MacBookPreset.deb
 Size: 1038
 MD5sum: ce52f0597a5a07e5167676aba7060137
+SHA1sum: ddcb6db4ae8d71ab8a898d8d75a0677cf98beb2f
+SHA256sum: a3d5a9be52485b9d4be744326bc8ae9d0253342394a6bd246e1cc179923f966a
 Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
 
 Package: com.Polyphian.MacBookGray
@@ -87,47 +99,55 @@ Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookGray.deb
-Size: 16778080
-MD5sum: 0c1129cc9fbbff0c71e68d5261554b73
+Size: 22296962
+MD5sum: fd427fcb1abce85e14975336f32e1b66
+SHA1sum: 1b9b00b60ed6c097469d906ac5fe94b92f9f6223
+SHA256sum: 54ac03154cf2c6145910a70019e2f67e76988f3cfba2cca081ee378f89babe46
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGray.html
 
 Package: com.Polyphian.MacBookRose
 Description: MacBook Keyboard theme for Laetus
-Version: 0.2
+Version: 0.2.1
 Name: MacBook Rose
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRose.deb
-Size: 5825526
-MD5sum: 09b3aba42b0f578d9548585f9be8c95a
+Size: 9832308
+MD5sum: d5af1b04b0d647060235c2710d1c7ad2
+SHA1sum: 73e815a19e11a47ab60e40f79f0d4031872cdd82
+SHA256sum: f48d4c362e1c0659ba506e74ffcc09859b8b4fd90d9ca146195f3f669e91aca6
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
 
 Package: com.Polyphian.MacBookGold
 Description: MacBook Keyboard theme for Laetus
-Version: 0.2
+Version: 0.2.1
 Name: MacBook Gold
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookGold.deb
-Size: 18236050
-MD5sum: b9b78adf085f99fea47f78ef10c887b1
+Size: 28741992
+MD5sum: 2b01ea0e342d386440be7dbe22ec69b2
+SHA1sum: 1d010a6ea4e26e9d9943990dbd5464d4ed8ec81b
+SHA256sum: 429b8f294257d36604dcd94d6a57ac3ba34e3e238b9aa9c8a50eebd71e4c64ba
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
 
 Package: com.Polyphian.MacBookSilver
 Description: MacBook Keyboard theme for Laetus
-Version: 0.2
+Version: 0.2.1
 Name: MacBook Silver
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookSilver.deb
-Size: 18716278
-MD5sum: 7b2b97b12b28272d8378e312be162925
+Size: 29262842
+MD5sum: 2adfe462fa496132cfef719d041fc668
+SHA1sum: 7574bda558a5fd1c25d85f7c11e2528c71b9ab8f
+SHA256sum: 722579f0cff5dad93a9aeae79af540f5a53e44ca1a2165739a03fcd3ab6de04f
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookSilver.html
 
 Package: com.Polyphian.MacBookBlack
@@ -141,6 +161,8 @@ Author: Polyphian
 Filename: ./debs/MacBookBlack.deb
 Size: 7353682
 MD5sum: 751c36bd359928538f1cfb9c4277e4cc
+SHA1sum: c07ee2535e68fd2417cd7f4c744f2a94e814d931
+SHA256sum: dab1cbe3557b7a227bd40578208215bce52e1382aa422697e54ed9b8dd59a360
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
 
 Package: com.Polyphian.MacBookWhite
@@ -154,17 +176,21 @@ Author: Polyphian
 Filename: ./debs/MacBookWhite.deb
 Size: 6939554
 MD5sum: d1b87d5560ae4e365a8f403fdc72cc80
+SHA1sum: d3a061d05163b379af8e22e800b92c4c9d9974b5
+SHA256sum: a4caea63137b432c96b350f0251de702c9d0cf78761cedf89b1188b593413e66
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
 
 Package: com.Polyphian.MacBookRed
 Description: MacBook Keyboard theme for Laetus
-Version: 0.2
+Version: 0.2.1
 Name: MacBook Red
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRed.deb
-Size: 8823170
-MD5sum: ebc6388bb17aca520a8428641a9d65ed
+Size: 9819050
+MD5sum: 8b87a703fe1fa5eb18033bc123c5d12b
+SHA1sum: c05c325386e94ae92c5c72cba1544132bb4c214b
+SHA256sum: dc816669189f5d9d63b758eb6c1ffcae46c86464c5d76e80b123995a834b7ba9
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRed.html
