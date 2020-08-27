@@ -194,3 +194,18 @@ MD5sum: 8b87a703fe1fa5eb18033bc123c5d12b
 SHA1sum: c05c325386e94ae92c5c72cba1544132bb4c214b
 SHA256sum: dc816669189f5d9d63b758eb6c1ffcae46c86464c5d76e80b123995a834b7ba9
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRed.html
+
+Package: com.Polyphian.MacBookBlue
+Description: MacBook Keyboard theme for Laetus
+Version: 0.3
+Name: MacBook Blue
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookBlue.deb
+Size: 9527808
+MD5sum: 0b77bc461835795e69d261c54e0860d1
+SHA1sum: 55c636259a0f89185a3148af7ea63da732eb499c
+SHA256sum: e02fc31cc018066b5b88c58317e2b7597f42bf089cba1038497c7c26d4797d09
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
