@@ -175,9 +175,9 @@ Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookWhite.deb
 Size: 7337916
-MD5sum: f2d9e7857547b4fff7e97b261f53014f
-SHA1sum: 436c779727dbd8113b21ae7537d203ee59bbd79b
-SHA256sum: af73fb634e8ceac244c523af5922f8ff9e7f9595be3bbfdcb5a01f6cecaed5d0
+MD5sum: d32dfc499999011d03344ed68748d8b6
+SHA1sum: 2ea2f014dbd11915cccf5347204995771173df32
+SHA256sum: 225674cd82373dc493cd73e2184925b1db0f02caa96dba1accd626f7b1bc8136
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
 
 Package: com.Polyphian.MacBookRed
