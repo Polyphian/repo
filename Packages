@@ -167,17 +167,17 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
 
 Package: com.Polyphian.MacBookWhite
 Description: MacBook Keyboard theme and preset for Laetus
-Version: 0.2
+Version: 0.3
 Name: MacBook White
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookWhite.deb
-Size: 6939554
-MD5sum: d1b87d5560ae4e365a8f403fdc72cc80
-SHA1sum: d3a061d05163b379af8e22e800b92c4c9d9974b5
-SHA256sum: a4caea63137b432c96b350f0251de702c9d0cf78761cedf89b1188b593413e66
+Size: 7337916
+MD5sum: f2d9e7857547b4fff7e97b261f53014f
+SHA1sum: 436c779727dbd8113b21ae7537d203ee59bbd79b
+SHA256sum: af73fb634e8ceac244c523af5922f8ff9e7f9595be3bbfdcb5a01f6cecaed5d0
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
 
 Package: com.Polyphian.MacBookRed
