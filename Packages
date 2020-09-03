@@ -212,15 +212,15 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
 
 Package: com.Polyphian.Keystrokes
 Description: Realistic keyboard sounds.
-Version: 0.1
+Version: 0.2
 Name: Keystroke Sounds
 Section: Sounds
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/Keystrokes.deb
-Size: 124522
-MD5sum: f2d9e7857547b4fff7e97b261f53014f
-SHA1sum: 436c779727dbd8113b21ae7537d203ee59bbd79b
-SHA256sum: af73fb634e8ceac244c523af5922f8ff9e7f9595be3bbfdcb5a01f6cecaed5d0
+Size: 248952
+MD5sum: 125e28eed3749571d0644ea6b84183a9
+SHA1sum: 7d1414d1a23986d3834f1fe81dd07841dc3f0926
+SHA256sum: 6924e1e744e5aea90833ca29fa1d672bf5537115bc894fa9144dd9c068d7ab96
 Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
