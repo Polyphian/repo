@@ -90,24 +90,69 @@ SHA1sum: ddcb6db4ae8d71ab8a898d8d75a0677cf98beb2f
 SHA256sum: a3d5a9be52485b9d4be744326bc8ae9d0253342394a6bd246e1cc179923f966a
 Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
 
+Package: com.Polyphian.MacBookBlack
+Description: MacBook Keyboard theme for Laetus
+Version: 0.3.1
+Name: MacBook Black
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookBlack.deb
+Size: 14585826
+MD5sum: a334bf7224a3b7bdd78da5dd3fc6f26e
+SHA1sum: 72328d4e7fc8a541c9c9d683134d39d131646aa2
+SHA256sum: 38766080017c1379cd4876fc6f6a1654a61c0cfb1a74cab77ab1b9abae127e3c
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
+
+Package: com.Polyphian.MacBookBlue
+Description: MacBook Keyboard theme for Laetus
+Version: 0.4.1
+Name: MacBook Blue
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookBlue.deb
+Size: 16718142
+MD5sum: a334bf7224a3b7bdd78da5dd3fc6f26e
+SHA1sum: 72328d4e7fc8a541c9c9d683134d39d131646aa2
+SHA256sum: 38766080017c1379cd4876fc6f6a1654a61c0cfb1a74cab77ab1b9abae127e3c
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
+
+Package: com.Polyphian.MacBookGold
+Description: MacBook Keyboard theme for Laetus
+Version: 0.3.1
+Name: MacBook Gold
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/MacBookGold.deb
+Size: 35406308
+MD5sum: 6b8ffa681b2e5e37f53878152aa4b4c8
+SHA1sum: 6e8dba31bf5c9f67b129953d6a27f4a0b611893e
+SHA256sum: a6621e0215e58868853ff39fa2ffc4ce72a9723ca8f1944e525291d187d1ae18
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
+
 Package: com.Polyphian.MacBookGray
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3
+Version: 0.3.1
 Name: MacBook Gray
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookGray.deb
-Size: 32243850
-MD5sum: 9bc5d32e33ddafd6558e6fc2ff8baac4
-SHA1sum: 38c6845858c5ed3310702012cb31543d09d25b71
-SHA256sum: 5fabd0e12b46248968b1c6a79e0b7e140ee3cc2b16c22aca141f02d7471ac1f5
+Size: 32440106
+MD5sum: c402fba4b566e092e93b25a0cc4ab9de
+SHA1sum: e1dfe04db87997d69b6f9751605ca047cdf2b2ed
+SHA256sum: fa251478b450382940111703b6b58ab8d748324c022cd31849c4b2b94ba3a36c
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGray.html
 
 Package: com.Polyphian.MacBookRose
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3
+Version: 0.3.1
 Name: MacBook Rose
 Section: Laetus Themes
 Maintainer: Polyphian
@@ -120,95 +165,50 @@ SHA1sum: 02a3f7289c8e0a4e77fd04e6af74ef71e8603d43
 SHA256sum: 7735f1c103b4abf769bcd76fde82438afb8e3ffb1e81e7c1ae519d9b7c74bac6
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
 
-Package: com.Polyphian.MacBookGold
-Description: MacBook Keyboard theme for Laetus
-Version: 0.3
-Name: MacBook Gold
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookGold.deb
-Size: 35210942
-MD5sum: 0af4a66e887e09a6de37934720595d9c
-SHA1sum: 497765645932b6feec097378ef6feab278e66753
-SHA256sum: cd153d48017b8419c8c5c331362af1be40a463f5c8feab249484dcd2ce677138
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
-
 Package: com.Polyphian.MacBookSilver
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3
+Version: 0.3.1
 Name: MacBook Silver
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookSilver.deb
-Size: 35903642
-MD5sum: b165f365964eee63876983f8bac93ebc
-SHA1sum: bdf657e4f54b6fa85bc5370740047dd7b8e78638
-SHA256sum: 8ffefbba3dfa15c01d710156a70106cb6b577e0764450931b4a58fb45e82a88b
+Size: 36100306
+MD5sum: 5ce1eb4e5be14635b26d81d066314b96
+SHA1sum: 31bd1dea11e8f484694e57434b14679e4d213618
+SHA256sum: 14ecaaceca2a2d82c64ab386b5ba9a2c1644b6ae22139ecd4223f49fe792f4eb
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookSilver.html
-
-Package: com.Polyphian.MacBookBlack
-Description: MacBook Keyboard theme for Laetus
-Version: 0.3
-Name: MacBook Black
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookBlack.deb
-Size: 14399950
-MD5sum: cc23f1395aa552a2f565db0cc395dc3f
-SHA1sum: 8fb8419ee1d9a0d8f907102292a38bec36a5b996
-SHA256sum: e0ad4dca2b8df53d7447f1900de2365659b62c5590a920a70b161d69b9517508
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
-
-Package: com.Polyphian.MacBookWhite
-Description: MacBook Keyboard theme and preset for Laetus
-Version: 0.4
-Name: MacBook White
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookWhite.deb
-Size: 14534268
-MD5sum: bb4f70b664625f8089edccb0c92607b0
-SHA1sum: d454dcd246d2589b24899ebda1ef3c82bc8ca650
-SHA256sum: 94e5f20f4bfa4282f0cdfaf97d74ed41319e03d2c863c61ab7744786c9b20092
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
 
 Package: com.Polyphian.MacBookRed
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3
+Version: 0.3.1
 Name: MacBook Red
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRed.deb
-Size: 15995068
-MD5sum: ed2f0f7e62adea8063ebd9620c403e83
-SHA1sum: 288cabccc2a265dac613653801729f9d5ed2cc33
-SHA256sum: e3241c1d41477b6b2057ec3804a77a547c2af1c539ca89029b628eaa425c3b74
+Size: 16192074
+MD5sum: 0c58cb03ebe6b195d0b4b05a5b4856bf
+SHA1sum: 9a5d359c7d213bd80a6428f531f02323a493780f
+SHA256sum: f830bd38872b7c9ddedf37c24f95f58a5b724fda2f3c32a4ebc0a896f4c1e095
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRed.html
 
-Package: com.Polyphian.MacBookBlue
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4
-Name: MacBook Blue
+Package: com.Polyphian.MacBookWhite
+Description: MacBook Keyboard theme and preset for Laetus
+Version: 0.4.1
+Name: MacBook White
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
-Filename: ./debs/MacBookBlue.deb
-Size: 16521356
-MD5sum: 00676a2501021f196fd91431ff563805
-SHA1sum: 087271bd2592c72aba603d1292606bc29070ddb2
-SHA256sum: 8a57637f46ca6f559eb50df65cdad765becd4c82de63501d91f783263a3b008f
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
+Filename: ./debs/MacBookWhite.deb
+Size: 14735796
+MD5sum: be54c37c3bce8ec5e2385dec9f603822
+SHA1sum: 78ee7d74b14914e8eb6eab227222d7ff4aa5a07c
+SHA256sum: cae3b0f4d8c60fc489f3512b6917c36d8a8c3bc30e2ee0793779f29f1a385ed9
+Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
 
 Package: com.Polyphian.Keystrokes
 Description: Realistic keyboard sounds.
