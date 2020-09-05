@@ -115,9 +115,9 @@ Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookBlue.deb
 Size: 16718142
-MD5sum: a334bf7224a3b7bdd78da5dd3fc6f26e
-SHA1sum: 72328d4e7fc8a541c9c9d683134d39d131646aa2
-SHA256sum: 38766080017c1379cd4876fc6f6a1654a61c0cfb1a74cab77ab1b9abae127e3c
+MD5sum: 3c89906b22dfd741ca44fac2bc7ef6b0
+SHA1sum: 32c2cc03953e98f0ce41ef9226801de3ee782410
+SHA256sum: 1dab04ab47ae1fb45f1af35916577f37dbcfc3662ab259c069b6268e4ea71d1b
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
 
 Package: com.Polyphian.MacBookGold
@@ -159,10 +159,10 @@ Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRose.deb
-Size: 16091882
-MD5sum: 9c10461e940009cfa9d03de8df5b1acd
-SHA1sum: 02a3f7289c8e0a4e77fd04e6af74ef71e8603d43
-SHA256sum: 7735f1c103b4abf769bcd76fde82438afb8e3ffb1e81e7c1ae519d9b7c74bac6
+Size: 16288312
+MD5sum: 71573242f6a956f78386f1ad14fe8fae
+SHA1sum: 7cd4f120c741a741b1fc0557226e79038c04241f
+SHA256sum: 715c9bd8a7b003d68a12bad929eed124d0a7e007c13400154a11631f5b2bba6c
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
 
 Package: com.Polyphian.MacBookSilver
