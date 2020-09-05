@@ -115,9 +115,9 @@ Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRose.deb
 Size: 16091882
-MD5sum: ed2f0f7e62adea8063ebd9620c403e83
-SHA1sum: 288cabccc2a265dac613653801729f9d5ed2cc33
-SHA256sum: e3241c1d41477b6b2057ec3804a77a547c2af1c539ca89029b628eaa425c3b74
+MD5sum: 9c10461e940009cfa9d03de8df5b1acd
+SHA1sum: 02a3f7289c8e0a4e77fd04e6af74ef71e8603d43
+SHA256sum: 7735f1c103b4abf769bcd76fde82438afb8e3ffb1e81e7c1ae519d9b7c74bac6
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
 
 Package: com.Polyphian.MacBookGold
