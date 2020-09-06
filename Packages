@@ -224,3 +224,18 @@ MD5sum: 125e28eed3749571d0644ea6b84183a9
 SHA1sum: 7d1414d1a23986d3834f1fe81dd07841dc3f0926
 SHA256sum: 6924e1e744e5aea90833ca29fa1d672bf5537115bc894fa9144dd9c068d7ab96
 Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
+
+Package: com.Polyphian.ChonkyN95
+Description: Chonky theme for N95.
+Version: 1.0
+Name: Chonky - N95
+Section: N95
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/ChonkyN95.deb
+Size: 1276996
+MD5sum: cf2a7870ac066d34591ed6aa7b8d76e7
+SHA1sum: 011b21eeeec2b95b51b6e4ec93820e08840af144
+SHA256sum: 6623376d36cf7c0ac4dba3521ac105e83477aa36fe32869b7be06eb4b4e69fc3
+Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
