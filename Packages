@@ -254,3 +254,18 @@ MD5sum: f5a11dd99cc9f1d0ca09a176854b9c09
 SHA1sum: 122e353fc8349d16213ff77e1564966ec73101ac
 SHA256sum: 3e174aa126562be8feb813f8088ac839a4eef9110052f8dc9a028e62830890b4
 Depiction: https://polyphian.github.io/repo/dpict/N64N95.html
+
+Package: com.Polyphian.SNESN95
+Description: SNES theme for N95.
+Version: 1.0
+Name: SNES
+Section: N95
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/SNESN95.deb
+Size: 845440
+MD5sum: e64d5e09c08c2198cb03665fc5dc281c
+SHA1sum: 03342a5320adeb26f9c1a3ef3fb0959703694a46
+SHA256sum: af97c4a1ddce701898aba92bb960bc320466a0b239aeffcbdfcbe34efb301ee7
+Depiction: https://polyphian.github.io/repo/dpict/SNESN95.html
