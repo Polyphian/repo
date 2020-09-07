@@ -264,8 +264,8 @@ Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/SNESN95.deb
-Size: 845440
-MD5sum: e64d5e09c08c2198cb03665fc5dc281c
-SHA1sum: 03342a5320adeb26f9c1a3ef3fb0959703694a46
-SHA256sum: af97c4a1ddce701898aba92bb960bc320466a0b239aeffcbdfcbe34efb301ee7
+Size: 844188
+MD5sum: 3dff0c7b1391ff46cc7f88a4f0d9ff8d
+SHA1sum: 8c9720aec503b9a607f63276ff533c8be2315ace
+SHA256sum: db00bac47ef9f2bf661c7dea11b4b1d504100f8247a4e7ecea1c6b20f4f4a2c7
 Depiction: https://polyphian.github.io/repo/dpict/SNESN95.html
