@@ -241,16 +241,16 @@ SHA256sum: 6623376d36cf7c0ac4dba3521ac105e83477aa36fe32869b7be06eb4b4e69fc3
 Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
 
 Package: com.Polyphian.N64N95
-Description: N64 theme for N95.
-Version: 1.0
+Description: N64 theme pack for N95.
+Version: 1.1
 Name: N64
 Section: N95
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/N64N95.deb
-Size: 569774
-MD5sum: 77dbadfc03544c578310ff51d23e88e4
-SHA1sum: 126fba1e18754502661ac27ec3c04e81963af47f
-SHA256sum: da982b531f06dc67cf201eb591af62e353b123fcbd83953f017420491da19066
+Size: 4610562
+MD5sum: f5a11dd99cc9f1d0ca09a176854b9c09
+SHA1sum: 122e353fc8349d16213ff77e1564966ec73101ac
+SHA256sum: 3e174aa126562be8feb813f8088ac839a4eef9110052f8dc9a028e62830890b4
 Depiction: https://polyphian.github.io/repo/dpict/N64N95.html
