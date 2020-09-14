@@ -60,21 +60,6 @@ SHA1sum: ba9dc55581771f1896da4355a907f12ee63a201e
 SHA256sum: 9bc02eecef9fab9e0ac3ed74af62aa8ae70dec2f571411e6052b7a52989f80e0
 Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
 
-Package: com.Polyphian.Sixy
-Description: iOS 6 Keyboards for Laetus
-Version: 0.2
-Name: Sixy
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/Sixy.deb
-Size: 5678336
-MD5sum: 23981ac1baae45c4a1113f8fa6c8fab2
-SHA1sum: 4dd3637006acf9fde658a17a5c7148d61e619fa7
-SHA256sum: 84898df195db3919a281b76ddb0aaf0a1ca95e4a31bed2b5e8b247932be77435
-Depiction: https://polyphian.github.io/repo/dpict/sixy/index.html
-
 Package: com.Polyphian.MacBookPreset
 Description: MacBook Keyboard preset for Laetus
 Version: 0.1
