@@ -67,15 +67,15 @@ Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
 
 Package: com.Polyphian.MacBookBlack
 Description: MacBook Keyboard theme for Laetus
-Version: 0.4
+Version: 0.4.1
 Name: MacBook Black
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookBlack.deb
-Size: 24596754
-MD5sum: a21c95d98ae5f6eefbfbb20415e632c8
+Size: 23680860
+MD5sum: 35cd2c626cc6c9593365f25d7e029424
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
 
 Package: com.Polyphian.MacBookBlue
