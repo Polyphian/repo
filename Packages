@@ -10,8 +10,6 @@ Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13.deb
 Size: 83756490
 MD5sum: 9bf86b6f25b278854e97d629d18e7ff9
-SHA1sum: 2da6dc4b02f5ffc7c482ad8a9d75fda5118fa85d
-SHA256sum: e1d19e9e41b8d04e40e18e0613c3065ea07b8b233711dd2b529191c98d6388c4
 Depiction: https://polyphian.github.io/repo/dpict/index.html
 
 Package: com.Polyphian.Modern13S
@@ -26,8 +24,6 @@ Conflicts: com.Polyphian.Modern13G
 Filename: ./debs/Modern13S.deb
 Size: 792258
 MD5sum: 5780226465f629f2ab925a474bb93d8a
-SHA1sum: efc78914148af8006f733649ae70bcc15f916c13
-SHA256sum: e136e6040e94ebd9701bb09f749a8f90013501f6deef0161a2dee873664adbb4
 Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13S
 
 Package: com.Polyphian.Arcade
@@ -41,8 +37,6 @@ Author: Polyphian
 Filename: ./debs/Arcade.deb
 Size: 5827636
 MD5sum: 443a7e0cf977de4be2b89222ce4ee195
-SHA1sum: c23396d27ba73e9cc40813ac52ff04cac9914b0f
-SHA256sum: 9c9da121f512f33bd097082d1ad15c4ffe1e0fb2999b5d47ce39429038e6446a
 Depiction: https://polyphian.github.io/repo/dpict/arcade/index.html
 
 Package: com.Polyphian.ChonkyLite
@@ -56,8 +50,6 @@ Author: Polyphian
 Filename: ./debs/ChonkyLite.deb
 Size: 3055238
 MD5sum: 17a5384efeada26f6c5c33e6c1e49541
-SHA1sum: ba9dc55581771f1896da4355a907f12ee63a201e
-SHA256sum: 9bc02eecef9fab9e0ac3ed74af62aa8ae70dec2f571411e6052b7a52989f80e0
 Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
 
 Package: com.Polyphian.MacBookPreset
@@ -71,129 +63,137 @@ Author: Polyphian
 Filename: ./debs/MacBookPreset.deb
 Size: 1038
 MD5sum: ce52f0597a5a07e5167676aba7060137
-SHA1sum: ddcb6db4ae8d71ab8a898d8d75a0677cf98beb2f
-SHA256sum: a3d5a9be52485b9d4be744326bc8ae9d0253342394a6bd246e1cc179923f966a
 Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
 
 Package: com.Polyphian.MacBookBlack
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3.1
+Version: 0.4
 Name: MacBook Black
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookBlack.deb
-Size: 14585826
-MD5sum: a334bf7224a3b7bdd78da5dd3fc6f26e
-SHA1sum: 72328d4e7fc8a541c9c9d683134d39d131646aa2
-SHA256sum: 38766080017c1379cd4876fc6f6a1654a61c0cfb1a74cab77ab1b9abae127e3c
+Size: 24596754
+MD5sum: a21c95d98ae5f6eefbfbb20415e632c8
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
 
 Package: com.Polyphian.MacBookBlue
 Description: MacBook Keyboard theme for Laetus
-Version: 0.4.1
+Version: 0.5
 Name: MacBook Blue
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookBlue.deb
-Size: 16718142
-MD5sum: 3c89906b22dfd741ca44fac2bc7ef6b0
-SHA1sum: 32c2cc03953e98f0ce41ef9226801de3ee782410
-SHA256sum: 1dab04ab47ae1fb45f1af35916577f37dbcfc3662ab259c069b6268e4ea71d1b
+Size: 22004404
+MD5sum: ee68fe37e992ac88dcbbaa32712a16c1
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
 
 Package: com.Polyphian.MacBookGold
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3.1
+Version: 0.4
 Name: MacBook Gold
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookGold.deb
-Size: 35406308
-MD5sum: 6b8ffa681b2e5e37f53878152aa4b4c8
-SHA1sum: 6e8dba31bf5c9f67b129953d6a27f4a0b611893e
-SHA256sum: a6621e0215e58868853ff39fa2ffc4ce72a9723ca8f1944e525291d187d1ae18
+Size: 42862792
+MD5sum: 4d2df448b98589e90eac7da303dca895
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
 
 Package: com.Polyphian.MacBookGray
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3.1
+Version: 0.4
 Name: MacBook Gray
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookGray.deb
-Size: 32440106
-MD5sum: c402fba4b566e092e93b25a0cc4ab9de
-SHA1sum: e1dfe04db87997d69b6f9751605ca047cdf2b2ed
-SHA256sum: fa251478b450382940111703b6b58ab8d748324c022cd31849c4b2b94ba3a36c
+Size: 41769390
+MD5sum: 2ac68f4b313439bdbb3414528981ac15
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGray.html
 
 Package: com.Polyphian.MacBookRose
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3.1
+Version: 0.4
 Name: MacBook Rose
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRose.deb
-Size: 16288312
-MD5sum: 71573242f6a956f78386f1ad14fe8fae
-SHA1sum: 7cd4f120c741a741b1fc0557226e79038c04241f
-SHA256sum: 715c9bd8a7b003d68a12bad929eed124d0a7e007c13400154a11631f5b2bba6c
+Size: 24015340
+MD5sum: aad08affbc50c0796e3860f5c94c66c0
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
 
 Package: com.Polyphian.MacBookSilver
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3.1
+Version: 0.4
 Name: MacBook Silver
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookSilver.deb
-Size: 36100306
-MD5sum: 5ce1eb4e5be14635b26d81d066314b96
-SHA1sum: 31bd1dea11e8f484694e57434b14679e4d213618
-SHA256sum: 14ecaaceca2a2d82c64ab386b5ba9a2c1644b6ae22139ecd4223f49fe792f4eb
+Size: 44649908
+MD5sum: b3c611f16040f683ff06f287439faab1
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookSilver.html
 
 Package: com.Polyphian.MacBookRed
 Description: MacBook Keyboard theme for Laetus
-Version: 0.3.1
+Version: 0.4
 Name: MacBook Red
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookRed.deb
-Size: 16192074
-MD5sum: 0c58cb03ebe6b195d0b4b05a5b4856bf
-SHA1sum: 9a5d359c7d213bd80a6428f531f02323a493780f
-SHA256sum: f830bd38872b7c9ddedf37c24f95f58a5b724fda2f3c32a4ebc0a896f4c1e095
+Size: 23744398
+MD5sum: 8684e981fc4607f5aea460b1d390cb71
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRed.html
 
 Package: com.Polyphian.MacBookWhite
 Description: MacBook Keyboard theme and preset for Laetus
-Version: 0.4.1
+Version: 0.5
 Name: MacBook White
 Section: Laetus Themes
 Maintainer: Polyphian
 Architecture: iphoneos-arm
 Author: Polyphian
 Filename: ./debs/MacBookWhite.deb
-Size: 14735796
-MD5sum: be54c37c3bce8ec5e2385dec9f603822
-SHA1sum: 78ee7d74b14914e8eb6eab227222d7ff4aa5a07c
-SHA256sum: cae3b0f4d8c60fc489f3512b6917c36d8a8c3bc30e2ee0793779f29f1a385ed9
+Size: 23905646
+MD5sum: 00ec65bf9bbac31b7b539c768df3ecbf
 Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
+
+Package: com.Polyphian.Sixy
+Description: Sixy Keyboard theme and preset for Laetus
+Version: 0.3
+Name: Sixy
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/Sixy.deb
+Size: 21482020
+MD5sum: 2c0d6b4acd7a7d810b24a569b87ffa10
+Depiction: https://polyphian.github.io/repo/dpict/laetus/Sixy.html
+
+Package: com.Polyphian.SixyNyx
+Description: Sixy (Dark) Keyboard theme and preset for Laetus
+Version: 0.3
+Name: Sixy Nyx
+Section: Laetus Themes
+Maintainer: Polyphian
+Architecture: iphoneos-arm
+Author: Polyphian
+Filename: ./debs/SixyNyx.deb
+Size: 20532950
+MD5sum: 433fdb85a54d81ea86206bf140ad8469
+Depiction: https://polyphian.github.io/repo/dpict/laetus/SixyNyx.html
 
 Package: com.Polyphian.Keystrokes
 Description: Realistic keyboard sounds.
@@ -206,8 +206,6 @@ Author: Polyphian
 Filename: ./debs/Keystrokes.deb
 Size: 248952
 MD5sum: 125e28eed3749571d0644ea6b84183a9
-SHA1sum: 7d1414d1a23986d3834f1fe81dd07841dc3f0926
-SHA256sum: 6924e1e744e5aea90833ca29fa1d672bf5537115bc894fa9144dd9c068d7ab96
 Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
 
 Package: com.Polyphian.ChonkyN95
@@ -221,8 +219,6 @@ Author: Polyphian
 Filename: ./debs/ChonkyN95.deb
 Size: 1276996
 MD5sum: cf2a7870ac066d34591ed6aa7b8d76e7
-SHA1sum: 011b21eeeec2b95b51b6e4ec93820e08840af144
-SHA256sum: 6623376d36cf7c0ac4dba3521ac105e83477aa36fe32869b7be06eb4b4e69fc3
 Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
 
 Package: com.Polyphian.N64N95
@@ -236,8 +232,6 @@ Author: Polyphian
 Filename: ./debs/N64N95.deb
 Size: 4610562
 MD5sum: f5a11dd99cc9f1d0ca09a176854b9c09
-SHA1sum: 122e353fc8349d16213ff77e1564966ec73101ac
-SHA256sum: 3e174aa126562be8feb813f8088ac839a4eef9110052f8dc9a028e62830890b4
 Depiction: https://polyphian.github.io/repo/dpict/N64N95.html
 
 Package: com.Polyphian.SNESN95
@@ -251,6 +245,4 @@ Author: Polyphian
 Filename: ./debs/SNESN95.deb
 Size: 2583438
 MD5sum: 6d5dbf80e0e582154646dbda79793615
-SHA1sum: f955eddb998504bc08a04d4ad28ae20ca2970909
-SHA256sum: 8e9678ac2050139fd45b9c0e7f2190823804a79b4f6d52e5f84d33d76f1ed217
 Depiction: https://polyphian.github.io/repo/dpict/SNESN95.html
