@@ -1,248 +1,257 @@
-Package: com.Polyphian.Modern13
-Description: A continuation of Modern12 icon theme by @Xeviks
-Version: 1.9
-Name: Modern13
-Section: Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian & Xeviks
-Conflicts: com.Polyphian.Modern13G
-Filename: ./debs/Modern13.deb
-Size: 83756490
-MD5sum: 9bf86b6f25b278854e97d629d18e7ff9
-Depiction: https://polyphian.github.io/repo/dpict/index.html
-
-Package: com.Polyphian.Modern13S
-Description: Icon Effects (Shadows)
-Version: 1.0-1
-Name: Modern13 Shadows
-Section: Icon Effects
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Conflicts: com.Polyphian.Modern13G
-Filename: ./debs/Modern13S.deb
-Size: 792258
-MD5sum: 5780226465f629f2ab925a474bb93d8a
-Depiction: https://polyphian.github.io/repo/depictions/?p=com.Polyphian.Modern13S
-
 Package: com.Polyphian.Arcade
-Description: Arcade style icons for games.
 Version: 1.2
-Name: Arcade
-Section: Themes
-Maintainer: Polyphian
 Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Arcade_1.2_iphoneos-arm.deb
+Size: 5827652
+MD5sum: d43c4b0bf4e1acef4a723f315b5f4d12
+SHA1: 7982188df93e2ba069df8dfd1abdfb375fa35ac6
+SHA256: 39599febfe804d0f74ab646245603b10a77fa4460b20f4fea05062777d65604a
+Section: Themes
+Description: Arcade icons, for your games.
 Author: Polyphian
-Filename: ./debs/Arcade.deb
-Size: 5827636
-MD5sum: 443a7e0cf977de4be2b89222ce4ee195
-Depiction: https://polyphian.github.io/repo/dpict/arcade/index.html
+Depiction: https://polyphian.github.io/repo/dpict/Arcade.html
+Name: Arcade
 
 Package: com.Polyphian.ChonkyLite
-Description: Chonky, thicc smooth icons.
 Version: 0.6
-Name: Chonky Lite
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.ChonkyLite_0.6_iphoneos-arm.deb
+Size: 3055272
+MD5sum: f5509f8bd444dc9ec1e6d7556ceea26d
+SHA1: 4e35f4caba7ef0dd7d327e7d899a8844eb3856d2
+SHA256: 8fc59a323a376e58116351bfebd0a356abe24067a2c039c11b9970d736574b3d
 Section: Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
+Description: Chonky, thicc smooth icons.
 Author: Polyphian
-Filename: ./debs/ChonkyLite.deb
-Size: 3055238
-MD5sum: 17a5384efeada26f6c5c33e6c1e49541
-Depiction: https://polyphian.github.io/repo/dpict/chonky/index.html
-
-Package: com.Polyphian.MacBookPreset
-Description: MacBook Keyboard preset for Laetus
-Version: 0.1
-Name: MacBook Preset
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookPreset.deb
-Size: 1038
-MD5sum: ce52f0597a5a07e5167676aba7060137
-Depiction: https://polyphian.github.io/repo/dpict/laetus/preset.html
-
-Package: com.Polyphian.MacBookBlack
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4.1
-Name: MacBook Black
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookBlack.deb
-Size: 23680860
-MD5sum: 35cd2c626cc6c9593365f25d7e029424
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlack.html
-
-Package: com.Polyphian.MacBookBlue
-Description: MacBook Keyboard theme for Laetus
-Version: 0.5
-Name: MacBook Blue
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookBlue.deb
-Size: 22004404
-MD5sum: ee68fe37e992ac88dcbbaa32712a16c1
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookBlue.html
-
-Package: com.Polyphian.MacBookGold
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4
-Name: MacBook Gold
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookGold.deb
-Size: 42862792
-MD5sum: 4d2df448b98589e90eac7da303dca895
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGold.html
-
-Package: com.Polyphian.MacBookGray
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4
-Name: MacBook Gray
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookGray.deb
-Size: 41769390
-MD5sum: 2ac68f4b313439bdbb3414528981ac15
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookGray.html
-
-Package: com.Polyphian.MacBookRose
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4
-Name: MacBook Rose
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookRose.deb
-Size: 24015340
-MD5sum: aad08affbc50c0796e3860f5c94c66c0
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRose.html
-
-Package: com.Polyphian.MacBookSilver
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4
-Name: MacBook Silver
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookSilver.deb
-Size: 44649908
-MD5sum: b3c611f16040f683ff06f287439faab1
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookSilver.html
-
-Package: com.Polyphian.MacBookRed
-Description: MacBook Keyboard theme for Laetus
-Version: 0.4
-Name: MacBook Red
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookRed.deb
-Size: 23744398
-MD5sum: 8684e981fc4607f5aea460b1d390cb71
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookRed.html
-
-Package: com.Polyphian.MacBookWhite
-Description: MacBook Keyboard theme and preset for Laetus
-Version: 0.5
-Name: MacBook White
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/MacBookWhite.deb
-Size: 23905646
-MD5sum: 00ec65bf9bbac31b7b539c768df3ecbf
-Depiction: https://polyphian.github.io/repo/dpict/laetus/MacBookWhite.html
-
-Package: com.Polyphian.Sixy
-Description: Sixy Keyboard theme and preset for Laetus
-Version: 0.3
-Name: Sixy
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/Sixy.deb
-Size: 21482020
-MD5sum: 2c0d6b4acd7a7d810b24a569b87ffa10
-Depiction: https://polyphian.github.io/repo/dpict/laetus/Sixy.html
-
-Package: com.Polyphian.SixyNyx
-Description: Sixy (Dark) Keyboard theme and preset for Laetus
-Version: 0.3
-Name: Sixy Nyx
-Section: Laetus Themes
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/SixyNyx.deb
-Size: 20532950
-MD5sum: 433fdb85a54d81ea86206bf140ad8469
-Depiction: https://polyphian.github.io/repo/dpict/laetus/SixyNyx.html
-
-Package: com.Polyphian.Keystrokes
-Description: Realistic keyboard sounds.
-Version: 0.2
-Name: Keystroke Sounds
-Section: Sounds
-Maintainer: Polyphian
-Architecture: iphoneos-arm
-Author: Polyphian
-Filename: ./debs/Keystrokes.deb
-Size: 248952
-MD5sum: 125e28eed3749571d0644ea6b84183a9
-Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
+Depiction: https://polyphian.github.io/repo/dpict/ChonkyLite.html
+Name: Chonky Lite (Beta)
 
 Package: com.Polyphian.ChonkyN95
-Description: Chonky theme for N95.
 Version: 1.0
-Name: Chonky - N95
-Section: N95
-Maintainer: Polyphian
 Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.ChonkyN95_1.0_iphoneos-arm.deb
+Size: 1277038
+MD5sum: f0fde52500a26ecbf3528709c7e2aeab
+SHA1: 80db8204a58b704c66dfe180f7e3879ca2150cc7
+SHA256: 20e34e72ef596196b613acdd55b6cddb3ebe835c48b0bd6918207c89eecccbfb
+Section: N95
+Description: Chonky theme for N95.
 Author: Polyphian
-Filename: ./debs/ChonkyN95.deb
-Size: 1276996
-MD5sum: cf2a7870ac066d34591ed6aa7b8d76e7
 Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
+Name: Chonky - N95
+
+Package: com.Polyphian.Keystrokes
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Keystrokes_0.2_iphoneos-arm.deb
+Size: 248968
+MD5sum: 9321d1053d41fdfb21470112de758995
+SHA1: 29622dfe5af8d0025836af02b8dc73f8a4641448
+SHA256: 988600af3d9c22bc98fa9d31caed4a638c097e3c39d6be9f011a0b747acf348f
+Section: Sounds
+Description: Realistic keyboard sounds.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
+Name: Keystroke Sounds
+
+Package: com.Polyphian.MacBookBlack
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookBlack_0.4.1_iphoneos-arm.deb
+Size: 23680900
+MD5sum: 9c7637fb35a93df112d91c8b81e6c603
+SHA1: ca8d347a091dff67050a13430e669c0dec314b4a
+SHA256: c07b1f23cf4b9adb4b21790164e7937aa89734ca4eb2344157418a6313423575
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookBlack.html
+Name: MacBook Blue
+
+Package: com.Polyphian.MacBookBlue
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookBlue_0.5.1_iphoneos-arm.deb
+Size: 22001324
+MD5sum: 314f21b4d897ad8ac6de11f4b153244a
+SHA1: 1c67342ce9e10f2c0fd491f21ded08f3d257fe62
+SHA256: 6301128d2404ffaa7d3fbffe412d9175d5127393e1d61ef03248bc3dd97e8a81
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookBlue.html
+Name: MacBook Blue
+
+Package: com.Polyphian.MacBookGold
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookGold_0.4.1_iphoneos-arm.deb
+Size: 42862828
+MD5sum: 4e42337810daa818a24fb1502b23568f
+SHA1: d6ba507900b618f05064e632b22afc976cabc3d1
+SHA256: 2ba1e4a8136f02e4add69e74ca7ef6fadecfd1cc15203f36729ce6154d112ef2
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookGold.html
+Name: MacBook Gold
+
+Package: com.Polyphian.MacBookGray
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookGray_0.4.1_iphoneos-arm.deb
+Size: 41766244
+MD5sum: 6c9a9cba04ecac21df39b26a5c7dc239
+SHA1: d926f08aac063bcd06a90f1fb7fd4d9e1e904e60
+SHA256: 40743a429ee6be223d06df379095ab767d16b6a0add785756c7764a294542892
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookGray.html
+Name: MacBook Gray
+
+Package: com.Polyphian.MacBookRed
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookRed_0.4.1_iphoneos-arm.deb
+Size: 23741330
+MD5sum: 779979a05811043d69d4ed4c123bbe1f
+SHA1: 5eb6a1c18dab87cff6b2bf901b99191f159486ec
+SHA256: 6abc232598ce34afe16b45e48e192b2bebaaaf1740cbc2c4dd6e566b824a8639
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookRed.html
+Name: MacBook Red
+
+Package: com.Polyphian.MacBookRose
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookRose_0.4.1_iphoneos-arm.deb
+Size: 24012310
+MD5sum: ced8f97a2a2198084dba832ed6cca058
+SHA1: aa009f7e4c3fb68de022a4fa6de598d596fb0fe6
+SHA256: 0dd8691d5eb517828193fa74fa8289cb58ec3c9507087020975bb57176f6af63
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookRose.html
+Name: MacBook Rose
+
+Package: com.Polyphian.MacBookSilver
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookSilver_0.4.1_iphoneos-arm.deb
+Size: 44646750
+MD5sum: 418677f695541983bc2957dd94525640
+SHA1: f58718527813999829fb1afba2eb15996b54933c
+SHA256: a59376193250554099df414c213108bbdb11e787c67ff705af0c1d2ae794e248
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookSilver.html
+Name: MacBook Silver
+
+Package: com.Polyphian.MacBookWhite
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookWhite_0.5_iphoneos-arm.deb
+Size: 23905682
+MD5sum: 3f60789b39becdb75b82a273ae3fc15b
+SHA1: 7a22f39fc91532a0ec4401f637482589dc170c0a
+SHA256: 9c81b7f642f9c47294f2054b40c761fcf40733aa9e3326228e60d929cdbd3b48
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookWhite.html
+Name: MacBook White
+
+Package: com.Polyphian.Modern13
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Conflicts: com.Polyphian.Modern13G
+Filename: ./debs/com.Polyphian.Modern13_1.9_iphoneos-arm.deb
+Size: 83756564
+MD5sum: c048d1dc91c98905dde2ebd21403e2dd
+SHA1: d7922838537ddc59d699fa66fc8e206bc90c1ba2
+SHA256: 2a2ed4f7c9ff7ff71346fe6b06ecc6234d909d5c2dd1a1704acf2b14434a19c7
+Section: Themes
+Description: A continuation of Modern12 icon theme by @Xeviks
+Author: Polyphian & Xeviks
+Depiction: https://polyphian.github.io/repo/dpict/Modern13.html
+Name: Modern13
+
+Package: com.Polyphian.Modern13S
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Conflicts: com.Polyphian.Modern13G
+Filename: ./debs/com.Polyphian.Modern13S_1.0-1_iphoneos-arm.deb
+Size: 792238
+MD5sum: 1664358aba140256a06a2519ec3ef133
+SHA1: 25113f0bf4afb05189e01efb2e7de9ec4848538b
+SHA256: fe9e70f4076e7e21085b3536cc437739bc5ae9804b6e7ae9bf20879c44a6f694
+Section: Icon Effects
+Description: Icon Effects (Shadows)
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/ModernShadows.html
+Name: Modern13 Shadows
 
 Package: com.Polyphian.N64N95
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.N64N95_1.1_iphoneos-arm.deb
+Size: 4610524
+MD5sum: 0437a3d7d8033800f7839aabc93d7907
+SHA1: 7e6ab47d45dfaa2bbbd4968f89bde17829b4e2b3
+SHA256: 2a3a1cd9e22441da24e76747da8b4009c90bea9b2192ac8fcc74a3592b9b1c3d
+Section: N95
 Description: N64 theme pack for N95.
-Version: 1.1
-Name: N64
-Section: N95
-Maintainer: Polyphian
-Architecture: iphoneos-arm
 Author: Polyphian
-Filename: ./debs/N64N95.deb
-Size: 4610562
-MD5sum: f5a11dd99cc9f1d0ca09a176854b9c09
 Depiction: https://polyphian.github.io/repo/dpict/N64N95.html
+Name: N64
 
-Package: com.Polyphian.SNESN95
-Description: SNES theme pack for N95.
-Version: 1.1
-Name: SNES
-Section: N95
-Maintainer: Polyphian
+Package: com.Polyphian.Sixy
+Version: 0.3
 Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Sixy_0.3_iphoneos-arm.deb
+Size: 21482060
+MD5sum: 3773371ac7b476f068f7d23fec513dc8
+SHA1: 58b682c55ca79f63680b5f2f0939d75966528ac7
+SHA256: ef99024c79de05b9b8326dcbd734d8cba534120765598ba3f01a3e84962989b4
+Section: Laetus Themes
+Description: Sixy
 Author: Polyphian
-Filename: ./debs/SNESN95.deb
-Size: 2583438
-MD5sum: 6d5dbf80e0e582154646dbda79793615
-Depiction: https://polyphian.github.io/repo/dpict/SNESN95.html
+Depiction: https://polyphian.github.io/repo/dpict/Sixy.html
+Name: Sixy
+
+Package: com.Polyphian.SixyNyx
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.SixyNyx_0.3_iphoneos-arm.deb
+Size: 20532990
+MD5sum: 791b1d9d0059ab0e64b3cccd5c615236
+SHA1: e01a7e98101e330606c946b744b3922f624d0866
+SHA256: f276a2639b0423f31d97c969bcc90bac06cf040e68eb8a5201986b745e1fe1c2
+Section: Laetus Themes
+Description: Sixy Nyx
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/SixyNyx.html
+Name: Sixy Nyx
+
