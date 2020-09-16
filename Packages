@@ -118,6 +118,21 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/MacBookGray.html
 Name: MacBook Gray
 
+Package: com.Polyphian.MacBookPreset
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.MacBookPreset_0.1_iphoneos-arm.deb
+Size: 1096
+MD5sum: cfa9e1146f1bc2e03c21ad18384eb4a3
+SHA1: ef7fbf1e62e63919ec966c6a1b31059c3c6fcf08
+SHA256: 3c1cfbdb6574af89201041e913ab523436af27c774415b5daf6f81ae105ceba3
+Section: Laetus Themes
+Description: MacBook Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/MacBookPreset.html
+Name: MacBook Preset
+
 Package: com.Polyphian.MacBookRed
 Version: 0.4.1
 Architecture: iphoneos-arm
@@ -254,4 +269,3 @@ Description: Sixy Nyx
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/SixyNyx.html
 Name: Sixy Nyx
-
