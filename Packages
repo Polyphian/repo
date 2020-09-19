@@ -48,10 +48,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
 Filename: ./debs/com.Polyphian.Dustry_0.1_iphoneos-arm.deb
-Size: 67699440
-MD5sum: 67a67a0321110d5e9cd0210f6d2816b9
-SHA1: 7f77cad7141f39e377d4d155bd1525a805e2774c
-SHA256: a9be95c0a72fc01c0c4312eb2daa3d68e67f49f233e9fb3a7b02433029527e9f
+Size: 67699398
+MD5sum: 3b5bdbf13a4d8fb0afed8fc3ff7380f9
+SHA1: 78df7a9d4b4a0a58b143b806bf8fa0b5adcbd141
+SHA256: 6a6f0da2072481b9219c6697aacf109703134c162e06256a28403f3456008fdd
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
