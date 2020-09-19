@@ -43,6 +43,21 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
 Name: Chonky - N95
 
+Package: com.Polyphian.Dustry
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Dustry_0.1_iphoneos-arm.deb
+Size: 67684954
+MD5sum: ad5d380e8b2766e95af13825aef863de
+SHA1: dfe5ea858427fddad57e061118c0101540e7072c
+SHA256: f21fb096faef25c8e7aaff7ac593f74ded56a463a8bc8949bb44803a29bece84
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Dustry.html
+Name: Dustry
+
 Package: com.Polyphian.Keystrokes
 Version: 0.2
 Architecture: iphoneos-arm
@@ -269,3 +284,4 @@ Description: Sixy Nyx
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/SixyNyx.html
 Name: Sixy Nyx
+
