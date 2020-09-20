@@ -74,16 +74,61 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (Arabic)
 
+Package: com.Polyphian.DustryChinese
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DustryChinese_0.2_iphoneos-arm.deb
+Size: 2935004
+MD5sum: 6030f49518be79400388c9b268a474aa
+SHA1: f967e4053a33630841da126ed228d964de07f350
+SHA256: 8d88f2abc752fb9818a6097b43e62a77b493be8df90a2dee3203954ddcedbb81
+Section: Laetus Themes
+Description: Chinese (Simplified) keyplanes for Dustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Dustry (Arabic)
+
+Package: com.Polyphian.DustryFrenchSpanish
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DustryFrenchSpanish_0.2_iphoneos-arm.deb
+Size: 30178022
+MD5sum: 3d0800cfbc568bbe04a088146854b0d3
+SHA1: ecbe897eea6f5f3da6fbdf13802a9c6cc9aeb484
+SHA256: 8fff80842ffd06dde9c90ebd3787e9ca14204837652a12841c03d352e4a0a8cc
+Section: Laetus Themes
+Description: French and Spanish keyplanes for Dustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Dustry (French & Spanish)
+
+Package: com.Polyphian.DustryGermanNorwegian
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DustryGermanNorwegian_0.2_iphoneos-arm.deb
+Size: 18036824
+MD5sum: 7dd1bacdfc0f40524ed852128fc6b24a
+SHA1: e6c9d1ed90a561619922f00bcb59d127f9243294
+SHA256: 58f4f157231f73f42413a4d03ab971fdd6163723fe074e7d2c673844f05ff108
+Section: Laetus Themes
+Description: German and Norwegian keyplanes for Dustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Dustry (German & Norwegian)
+
 Package: com.Polyphian.DustryGlow
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
 Replaces: com.Polyphian.Dustry
 Filename: ./debs/com.Polyphian.DustryGlow_0.2_iphoneos-arm.deb
-Size: 9275742
-MD5sum: ab394b57eac8bb3361e8fa1c5246ddd1
-SHA1: 02393ed33ea24f0c1dc20f10dc12660c57d5d866
-SHA256: 5f730d92d3e6442c583b434cb9ee2975c36954b3931ee31d732781bd3fb83a18
+Size: 9280230
+MD5sum: c254e81b9350bf99574ac55d61b07393
+SHA1: d48040f3a504fd22093019876d90e441079e89b8
+SHA256: d9df143665aa581be59729432812b3f40cdcf9e462ca9031f071609d211badd8
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
@@ -316,4 +361,3 @@ Description: Sixy Nyx
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/SixyNyx.html
 Name: Sixy Nyx
-
