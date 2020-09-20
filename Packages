@@ -44,19 +44,36 @@ Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
 Name: Chonky - N95
 
 Package: com.Polyphian.Dustry
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/com.Polyphian.Dustry_0.1_iphoneos-arm.deb
-Size: 67699398
-MD5sum: 3b5bdbf13a4d8fb0afed8fc3ff7380f9
-SHA1: 78df7a9d4b4a0a58b143b806bf8fa0b5adcbd141
-SHA256: 6a6f0da2072481b9219c6697aacf109703134c162e06256a28403f3456008fdd
+Replaces: com.Polyphian.DustryGlow
+Filename: ./debs/com.Polyphian.Dustry_0.2_iphoneos-arm.deb
+Size: 3194624
+MD5sum: b8e90af75bc38b9da7307b4fa6f0523c
+SHA1: 74f41270b81f01b8b5a25218c45987f77b1ccdf0
+SHA256: 42a69bead89b073d384d1d2bc985480fc0105c43df5232eb85feb6fd09c5faa1
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/Dustry.html
 Name: Dustry
+
+Package: com.Polyphian.DustryGlow
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.Dustry
+Filename: ./debs/com.Polyphian.DustryGlow_0.2_iphoneos-arm.deb
+Size: 8717054
+MD5sum: 13db0f3a753ce66e4876b36227c50764
+SHA1: 97e0c97817d8cfe9e6b98cf12c5cb692a131bb28
+SHA256: 8625f674be48798c1e5ffb76dec350806622a6c19306ef4ec921b6327babf02e
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DustryGlow.html
+Name: Dustry Glow
 
 Package: com.Polyphian.Keystrokes
 Version: 0.2
