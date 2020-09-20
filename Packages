@@ -135,6 +135,21 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/DustryGlow.html
 Name: Dustry Glow
 
+Package: com.Polyphian.DustrySwedish
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DustrySwedish_0.2_iphoneos-arm.deb
+Size: 4690532
+MD5sum: f907eced75f52859268f32e270848962
+SHA1: d4a4748b07a8947cb97c6943c72ba33849508490
+SHA256: 9d4a2c6a59a01c79c79f78dd97a1fd3d00875889cae09ec126555d0d696f61f6
+Section: Laetus Themes
+Description: Swedish keyplanes for Dustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Dustry (Swedish)
+
 Package: com.Polyphian.Keystrokes
 Version: 0.2
 Architecture: iphoneos-arm
