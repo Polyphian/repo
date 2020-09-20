@@ -81,9 +81,9 @@ Maintainer: Polyphian
 Replaces: com.Polyphian.Dustry
 Filename: ./debs/com.Polyphian.DustryGlow_0.2_iphoneos-arm.deb
 Size: 8717054
-MD5sum: 13db0f3a753ce66e4876b36227c50764
-SHA1: 97e0c97817d8cfe9e6b98cf12c5cb692a131bb28
-SHA256: 8625f674be48798c1e5ffb76dec350806622a6c19306ef4ec921b6327babf02e
+MD5sum: be45e49def08f139b41ba317f6def1c5
+SHA1: 3921d753ee4a0ab54711d3b6c754b4b87b60352a
+SHA256: 3b85ae8f4ba983a96ec1818ef5a842c8ca3b86e1819f881bb9d0231d34453702
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
