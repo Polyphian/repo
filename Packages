@@ -182,6 +182,96 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (Swedish)
 
+Package: com.Polyphian.Flateau
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Flateau_0.1_iphoneos-arm.deb
+Size: 7764512
+MD5sum: 71abc027fd64db58469bb6269c5bb1b9
+SHA1: f8e291ee435438f5ae7c526b3b86a5461960bda8
+SHA256: b4abd98c39e7ea0fad4df9c832ff251c2c0d5dcb5e352e6a83624995abb61f5b
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Flateau.html
+Name: Flateau
+
+Package: com.Polyphian.FlateauArabic
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.FlateauArabic_0.1_iphoneos-arm.deb
+Size: 4387930
+MD5sum: 1f025ea155aa35ce4ee1064ae3d7d9fe
+SHA1: 6f3593110cc0a765ca7aa75dcd0671664029b273
+SHA256: e0c078175800100197997d5b7ca3f9e68934b36ae8a793bafedadc65b4b1c9b6
+Section: Laetus Themes
+Description: Arabic keyplanes for Flateau Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Flateau (Arabic)
+
+Package: com.Polyphian.FlateauChinese
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.FlateauChinese_0.1_iphoneos-arm.deb
+Size: 3974012
+MD5sum: 61146d6a720b81950df1c49a115a65d2
+SHA1: 5910f6188cdca1c6a251ae17aa85c1d78028adeb
+SHA256: 46dd2e781b5475d2fa1805d66983a93500ae8b7a72fc1ebab6d3e562270aa1ff
+Section: Laetus Themes
+Description: Chinese(Simplified) keyplanes for Flateau Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Flateau (Chinese Simplified)
+
+Package: com.Polyphian.FlateauFrenchSpanish
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.FlateauFrenchSpanish_0.1_iphoneos-arm.deb
+Size: 31808668
+MD5sum: 53ab788fc9c702afc723df5310d01562
+SHA1: 9de59b8cd82a3364eee7df59988fcd21d978abd5
+SHA256: d1266ee7b650b0fe90b7def98ad7623b0e9ae9bb739f21ec1e7e96f8c3514c2a
+Section: Laetus Themes
+Description: French & Spanish keyplanes for Flateau Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Flateau (French & Spanish)
+
+Package: com.Polyphian.FlateauGermanNorwegian
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.FlateauGermanNorwegian_0.1_iphoneos-arm.deb
+Size: 20976960
+MD5sum: ac401ac2eb20f4dcfb2ccb93897f0c44
+SHA1: 5e4e1ea09773820092a0bbc818a0ab83495aee11
+SHA256: b4c6ab8c5eca38e7c922b5c6c45fa53807cb83a980cc32e542b8a5903086696c
+Section: Laetus Themes
+Description: German & Norwegian keyplanes for Flateau Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Flateau (German & Norwegian)
+
+Package: com.Polyphian.FlateauSwedish
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.FlateauSwedish_0.1_iphoneos-arm.deb
+Size: 8391212
+MD5sum: 17aa1efdaeb5116db7d411f742fc2f59
+SHA1: 8e9c0b66dcd5394afebf72a49e303b02996eb952
+SHA256: cf146f88f46526d0529d06c52be2ce477695616379664f36d38d796b22c91e3a
+Section: Laetus Themes
+Description: Swedish keyplanes for Flateau Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Flateau (Swedish)
+
 Package: com.Polyphian.Keystrokes
 Version: 0.2
 Architecture: iphoneos-arm
