@@ -75,14 +75,14 @@ Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (Arabic)
 
 Package: com.Polyphian.DustryChinese
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/com.Polyphian.DustryChinese_0.2_iphoneos-arm.deb
-Size: 2935004
-MD5sum: 0751f8dde2fd2cd1573bee37b8c691ed
-SHA1: 7337a510362b2e3510c8396348ece8ba8134e820
-SHA256: b090091eb95a5739ebd9b774bf8ef4ecf2767d2d186d6931421ec12de1dcb094
+Filename: ./debs/com.Polyphian.DustryChinese_0.3_iphoneos-arm.deb
+Size: 3759844
+MD5sum: cc9101d8d14a2d89767dcab7ed220c36
+SHA1: e6bdd5914ecf3cdacec0c1a6e3f14950d3d84291
+SHA256: b32799b5aa59045b26aa6d05ca0cc05bad5d665679571e2c14508ea70455252d
 Section: Laetus Themes
 Description: Chinese (Simplified) keyplanes for Dustry Laetus theme.
 Author: Polyphian
