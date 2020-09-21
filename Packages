@@ -135,6 +135,38 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/DustryGlow.html
 Name: Dustry Glow
 
+Package: com.Polyphian.DustryGreen
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.Dustry
+Filename: ./debs/com.Polyphian.DustryGreen_0.2_iphoneos-arm.deb
+Size: 4507034
+MD5sum: 5de85d255315902b0eae067e0912a70b
+SHA1: 8a417d2be98b77a3c20b93347e53bc8056cab773
+SHA256: ad896107b960918501613142831dd42f6bbe25cbaa454ffcd3a2bccca6ef8615
+Section: Dustry Mods
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DustryGreen.html
+Name: Dustry Green
+
+Package: com.Polyphian.DustryNoGrille
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.Dustry
+Filename: ./debs/com.Polyphian.DustryNoGrille_0.2_iphoneos-arm.deb
+Size: 4353488
+MD5sum: f63aebc1342c334cbbe22b3cb0215e00
+SHA1: ebf691b0d3adf8b75af46374e9a48855e4cb7539
+SHA256: 444ab2237f99ccf6713dfe939bdd8eab099527c0b3a3bae537ae224eb524b84b
+Section: Dustry Mods
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DustryNoGrille.html
+Name: Dustry (No Grille)
+
 Package: com.Polyphian.DustrySwedish
 Version: 0.2
 Architecture: iphoneos-arm
