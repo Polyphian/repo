@@ -141,10 +141,10 @@ Architecture: iphoneos-arm
 Maintainer: Polyphian
 Replaces: com.Polyphian.Dustry, com.Polyphian.DustryGlow, com.Polyphian.DustryNoGrille, com.Polyphian.DustryGreenGlow, com.Polyphian.DustryGreenGlowNoGrille
 Filename: ./debs/com.Polyphian.DustryGreen_0.2_iphoneos-arm.deb
-Size: 4507056
-MD5sum: 5121885060ac0cac5fa22472299d601e
-SHA1: 275d97c6b2a1b49f07ab88478b31fdd8486eeaae
-SHA256: 570a92399db0e8929bfe987dfbbf5c8328e82852cda745c238bea1a62714d493
+Size: 4452300
+MD5sum: 23b42ca5ce3bf206ca8b796c76851a15
+SHA1: 3678a6ece9126275aa1c0890f5fea64243c37241
+SHA256: b0b2fc501e3e718973dca61a3c34f1f8e5cbc3dac2dd2fddeae86fcb03898346
 Section: Dustry Mods
 Description: Keyboard theme for Laetus
 Author: Polyphian
