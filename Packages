@@ -187,10 +187,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
 Filename: ./debs/com.Polyphian.Flateau_0.1_iphoneos-arm.deb
-Size: 7764512
-MD5sum: 71abc027fd64db58469bb6269c5bb1b9
-SHA1: f8e291ee435438f5ae7c526b3b86a5461960bda8
-SHA256: b4abd98c39e7ea0fad4df9c832ff251c2c0d5dcb5e352e6a83624995abb61f5b
+Size: 7765054
+MD5sum: 2df2d5cb3bfcc5a1b3abfde97caa08ac
+SHA1: 60be3ff665911ef558c8f0f58e66577ceeed55ab
+SHA256: 4977830fb47326bb97d3b341b2203f5e33fceb78d02c3d0409a8e1310c49ddd9
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
