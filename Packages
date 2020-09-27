@@ -44,15 +44,15 @@ Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
 Name: Chonky - N95
 
 Package: com.Polyphian.Dustry
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: Polyphian
 Replaces: com.Polyphian.DustryGlow, com.Polyphian.DustryNoGrille, com.Polyphian.DustryGreen, com.Polyphian.DustryGreenGlow, com.Polyphian.DustryGreenGlowNoGrille
-Filename: ./debs/com.Polyphian.Dustry_0.2_iphoneos-arm.deb
-Size: 8710352
-MD5sum: 577c2546372bf90eb67eef07f2fb78bf
-SHA1: 5b70c263cf4c5fe3d342fc24df0f0579ee1b03c2
-SHA256: 12a4d085ebd1f507604858b98f34e8e98d9e609222dd3ad1ffc3ad497b139d51
+Filename: ./debs/com.Polyphian.Dustry_0.3_iphoneos-arm.deb
+Size: 8961348
+MD5sum: d7b9c540ae8ccae11aacea985fcfa4b1
+SHA1: 3e2276420a175e39ebbe895b94e9754c8ac20e8d
+SHA256: 3ce1ecc729378374989bd74c2cc4e3a67f49b3484277aa36ab5c65289cf8d9b9
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
@@ -559,6 +559,21 @@ Description: N64 theme pack for N95.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/N64N95.html
 Name: N64
+
+Package: com.Polyphian.Pearl
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Pearl_0.1_iphoneos-arm.deb
+Size: 4614496
+MD5sum: d76885ff47eecaa1e6db0fdf8451aa1b
+SHA1: d165ed7963ec286a225f98510210c021b8aad50b
+SHA256: a373fe9a54eea67e95015e1f1600d9fee44df1c3bfa0b02d31125cfabd425d08
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Pearl.html
+Name: Pearl
 
 Package: com.Polyphian.Sixy
 Version: 0.3
