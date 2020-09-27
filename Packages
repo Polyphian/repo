@@ -287,6 +287,97 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
 Name: Keystroke Sounds
 
+Package: com.Polyphian.Lustry
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Lustry_0.1_iphoneos-arm.deb
+Size: 9948764
+MD5sum: d2cde3246152e43d5ccf6764daaf6890
+SHA1: 090454ed3c177b5600e88d5b477914bea5a737c6
+SHA256: 07433a5d100dab81c98960aab083c079b1f81368ac9f18f47c3a255779d21581
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Lustry.html
+Icon: https://polyphian.github.io/repo/icons/Lustry.png
+Name: Lustry
+
+Package: com.Polyphian.LustryArabic
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.LustryArabic_0.1_iphoneos-arm.deb
+Size: 3585542
+MD5sum: d8d6f8d6e93f796a11d27aa4a9fbf4d1
+SHA1: fdbc2390aea5a245bd15a65ab11c483524584f97
+SHA256: e319230bbed2a6925660894953b44256880a4c4ea09c85b7f9273886c20a7f00
+Section: Laetus Themes
+Description: Arabic keyplanes for Lustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Lustry (Arabic)
+
+Package: com.Polyphian.LustryChinese
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.LustryChinese_0.1_iphoneos-arm.deb
+Size: 4118630
+MD5sum: 40acf70fad66f479097cc9526e501b87
+SHA1: 26b7e5d6e85951900c0bca1409255501a5a4c930
+SHA256: 9ea1cdb4c547c8e5b9930087d8ab3726c59a47b17862ccce837e16982dd3aff4
+Section: Laetus Themes
+Description: Chinese (Simplified) keyplanes for Lustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Lustry (Chinese Simplified)
+
+Package: com.Polyphian.LustryFrenchSpanish
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.LustryFrenchSpanish_0.1_iphoneos-arm.deb
+Size: 33049000
+MD5sum: 953c70ac38fc8200e019c7948039e652
+SHA1: 1387d922ac488914ab16a458eb6860c7a9e62381
+SHA256: f9bffe32b4486e751d3e01b5c8f5035e2b567fbb4e667f7203b3c823ca5ae40c
+Section: Laetus Themes
+Description: French and Spanish keyplanes for Lustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Lustry (French & Spanish)
+
+Package: com.Polyphian.LustryGermanNorwegian
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.LustryGermanNorwegian_0.1_iphoneos-arm.deb
+Size: 21142842
+MD5sum: d21cdcf02718d1840ade65fc31d133c2
+SHA1: 3879f0f0efc60571ae996a9514e19dc95c05a2ed
+SHA256: 9d473626a78e6e58c1cbb0fb384c2eb843299ab084f4ad55cde82da2a22240a6
+Section: Laetus Themes
+Description: German and Norwegian keyplanes for Lustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Lustry (German & Norwegian)
+
+Package: com.Polyphian.LustrySwedish
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.LustrySwedish_0.1_iphoneos-arm.deb
+Size: 8457588
+MD5sum: 7594949979c722e8e6c4a081f82d7050
+SHA1: a1e5507f7bd372f41155ef7da3bfeed24ccfb640
+SHA256: c89f5f9d76e5184ae5da72d599b054e7cdd4019b886937ee207eead57077a3c0
+Section: Laetus Themes
+Description: Swedish keyplanes for Lustry Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Lustry (Swedish)
+
 Package: com.Polyphian.MacBookBlack
 Version: 0.4.1
 Architecture: iphoneos-arm
