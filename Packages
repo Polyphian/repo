@@ -88,6 +88,21 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Chinese Simplified)
 
+Package: com.Polyphian.DepthsD
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsD_0.1_iphoneos-arm.deb
+Size: 12300018
+MD5sum: eb7eb4b2c3074982e74a05dac4a4e113
+SHA1: a298a1e730c4d918ca12f0d0b4a17b10ee4190bf
+SHA256: 0243d285b894773ebb97901bf24508064b3a807a02041754d44073a85647d2e2
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DepthsD.html
+Name: Depths D
+
 Package: com.Polyphian.DepthsDArabic
 Version: 0.1
 Architecture: iphoneos-arm
