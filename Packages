@@ -88,6 +88,81 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Chinese Simplified)
 
+Package: com.Polyphian.DepthsDArabic
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsDArabic_0.1_iphoneos-arm.deb
+Size: 4722072
+MD5sum: f7c287dea9331e18d25f98dfe5d75f5c
+SHA1: 0301cab7f1f6e7360bfc07d601111a18c9a34fef
+SHA256: 4361325be8536626de4a8e9c8595f31beddd86b58e7f3ba31b370a4c0b56feb5
+Section: Laetus Themes
+Description: Arabic keyplanes for Depths D Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Depths D (Arabic)
+
+Package: com.Polyphian.DepthsDChinese
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsDChinese_0.1_iphoneos-arm.deb
+Size: 4278006
+MD5sum: 8230a34a710f11db303878040bb1660c
+SHA1: 83986fe645a9caf593a355064c257eaab688266a
+SHA256: 62da8187dab08163b3f4ec968aa575afcd27816a72b2e993cd7a9a8c16b2c0b8
+Section: Laetus Themes
+Description: Chinese(Simplified) keyplanes for Depths D Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Depths D (Chinese Simplified)
+
+Package: com.Polyphian.DepthsDFrenchSpanish
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsDFrenchSpanish_0.1_iphoneos-arm.deb
+Size: 34414914
+MD5sum: fc234a4a505a40bd862d78cc74077ce0
+SHA1: 308859aa59da1a8499ec284f56319692e10920b5
+SHA256: e682b41cb6e5a6999ede015b5f51f4b2ff0c5a8f954719f5f8d72e9046aef4bd
+Section: Laetus Themes
+Description: French & Spanish keyplanes for Depths D Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Depths D (French & Spanish)
+
+Package: com.Polyphian.DepthsDGermanNorwegian
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsDGermanNorwegian_0.1_iphoneos-arm.deb
+Size: 22989748
+MD5sum: fc48e591437711d1ca6c54ff3f27dd93
+SHA1: 2bc9d7676ceda71f735e215d238b81829ccb3c9d
+SHA256: 3b8cd1d190679a57ddf43826cf1c874752fcec2b141e1ba6ff6768adff0a82a7
+Section: Laetus Themes
+Description: German & Norwegian keyplanes for Depths D Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Depths D (German & Norwegian)
+
+Package: com.Polyphian.DepthsDSwedish
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsDSwedish_0.1_iphoneos-arm.deb
+Size: 9187544
+MD5sum: a43b5ee1220318c66967bbdb913c3776
+SHA1: 6ad6b19c8b2142501545de97cb72e683da080fea
+SHA256: c24dd3f4f58f771b5e8370adb57210329a8724894d956ec4086500ed0572debc
+Section: Laetus Themes
+Description: Swedish keyplanes for Depths D Laetus theme.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/General.html
+Name: Depths D (Swedish)
+
 Package: com.Polyphian.DepthsFrenchSpanish
 Version: 0.1
 Architecture: iphoneos-arm
