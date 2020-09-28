@@ -740,21 +740,6 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/N64N95.html
 Name: N64
 
-Package: com.Polyphian.Pearl
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Polyphian
-Filename: ./debs/com.Polyphian.Pearl_0.1_iphoneos-arm.deb
-Size: 4614496
-MD5sum: d76885ff47eecaa1e6db0fdf8451aa1b
-SHA1: d165ed7963ec286a225f98510210c021b8aad50b
-SHA256: a373fe9a54eea67e95015e1f1600d9fee44df1c3bfa0b02d31125cfabd425d08
-Section: Laetus Themes
-Description: Keyboard theme for Laetus
-Author: Polyphian
-Depiction: https://polyphian.github.io/repo/dpict/Pearl.html
-Name: Pearl
-
 Package: com.Polyphian.Sixy
 Version: 0.3
 Architecture: iphoneos-arm
