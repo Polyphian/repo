@@ -63,11 +63,11 @@ Package: com.Polyphian.DepthsArabic
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsArabic.deb
-Size: 4645044
-MD5sum: cb47d48d82e421599a1306971cda4642
-SHA1: 55669b7385127784e91a85ea5a8751da3912d8d8
-SHA256: 9f43022be45089b5370029528c5365f11fa4e0b687d43556f0ed68eabb6bfaec
+Filename: ./debs/com.Polyphian.DepthsArabic_0.1_iphoneos-arm.deb
+Size: 4731326
+MD5sum: 7b848598f5e138908ecebd3929ddf7a9
+SHA1: 0983d16203b81d9160ee59bb72524a8fe0e019f0
+SHA256: 6ca69ad06bc47f61947df33099c1d95d83e4d367e3ad4b7ae9b2b662ecd60dcb
 Section: Laetus Language Packs
 Description: Arabic keyplanes for Depths Laetus theme.
 Author: Polyphian
@@ -78,42 +78,26 @@ Package: com.Polyphian.DepthsChinese
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsChinese-Pinyin.deb
-Size: 4193672
-MD5sum: f0e117236f28cb843eed9293bdbc38b4
-SHA1: 5d56d2d7e57861906adffd0531b76c258521797e
-SHA256: c1749b8aaa38668ee8cf91b3254feb4c0a65d5ef6f90884e48e9ec1692b5f573
+Filename: ./debs/com.Polyphian.DepthsChinese_0.2_iphoneos-arm.deb
+Size: 8986938
+MD5sum: fd724dfcf4cfb723d5b84c3600af8a86
+SHA1: 8e552bb0cad2f3690c60d283cdaf2bda9f18d178
+SHA256: c6f28665ff01f7e8d47f9c000c9a3dc7cc6a62d258ddb468c812a28cd94333e3
 Section: Laetus Language Packs
 Description: Chinese (Pinyin) keyplanes for Depths Laetus theme.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Chinese Pinyin)
 
-Package: com.Polyphian.DepthsD
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Polyphian
-Filename: ./debs/DepthsD.deb
-Size: 6029140
-MD5sum: 4adbd3e0e0e4105fb3eb7fa3362c57c8
-SHA1: eaf218379f378f409c749279a3461d3d5694d6d7
-SHA256: 615c0e93e2eb87a1fb9bdbdc4ea94593f123a3b4e097af479f491a1d8ba054ce
-Section: Laetus Themes
-Description: Keyboard theme for Laetus
-Author: Polyphian
-Depiction: https://polyphian.github.io/repo/dpict/DepthsD.html
-Icon: https://polyphian.github.io/repo/icons/DepthsD.png
-Name: Depths D
-
 Package: com.Polyphian.DepthsDArabic
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsDArabic.deb
-Size: 4605564
-MD5sum: f1b120c402fb67eab7ac1a75797dcd6b
-SHA1: a243227db22732fe1edf7f4b7aa4e2b0ea5be688
-SHA256: 0af6c495e1bbc3bc8819a58020a7120a727c1dc825107727b92198c407ffb024
+Filename: ./debs/com.Polyphian.DepthsDArabic_0.2_iphoneos-arm.deb
+Size: 4675774
+MD5sum: e0e2b41af63a6929c0bc123f4a51871b
+SHA1: 17e5d62551a228ce2bef67f14ddc29e6ecd33fab
+SHA256: 8092e2af9fc7ddfd2cfd39affec972667991f693d1b08aa0f448d076b2bae47d
 Section: Laetus Language Packs
 Description: Arabic keyplanes for Depths D Laetus theme.
 Author: Polyphian
@@ -124,11 +108,11 @@ Package: com.Polyphian.DepthsDChinese
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsDChinese-Pinyin.deb
-Size: 3996084
-MD5sum: 8b068b12d8b6e1407b13e14a7fd753e5
-SHA1: 60b802066484e2f9ef9045f45fee282d4fd609db
-SHA256: 0ab3a0c4a7de733f5b8e8768715e49d21caa656fc91aeeaa4a84d326db3ca976
+Filename: ./debs/com.Polyphian.DepthsDChinese_0.2_iphoneos-arm.deb
+Size: 8484654
+MD5sum: bfa23de1457fff1470665d0eee7c6602
+SHA1: 88c00d222d03887d0ab0a57d852f6fc67690442e
+SHA256: f91994b72d00647a8cba07cb1801028b518a36ae5fcff431768c44353bf0d6b0
 Section: Laetus Language Packs
 Description: Chinese (Pinyin) keyplanes for Depths D Laetus theme.
 Author: Polyphian
@@ -139,11 +123,11 @@ Package: com.Polyphian.DepthsDFrenchSpanish
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsDFrench-Spanish.deb
-Size: 5257132
-MD5sum: 66f111ab375747e77302b55705aad76f
-SHA1: ece3379a0ea5c86ace350fca76d14c35bee7a7c5
-SHA256: e392babe5b1c582e6b4c031254ebeaf59171b94d21996701c001d8b6f84b9dec
+Filename: ./debs/com.Polyphian.DepthsDFrenchSpanish_0.2_iphoneos-arm.deb
+Size: 34136752
+MD5sum: 639744e774188439a2e67d074ee5e884
+SHA1: 43872c3dfcc4c260e871964d750f03548b1504ce
+SHA256: d674fc8a5ce9fb543f1cccf9c23cb074a910be3ea56082aa9437c68600c9bdc2
 Section: Laetus Language Packs
 Description: French & Spanish keyplanes for Depths D Laetus theme.
 Author: Polyphian
@@ -154,11 +138,11 @@ Package: com.Polyphian.DepthsDGermanNorwegian
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsDGerman-Norwegian.deb
-Size: 4485072
-MD5sum: 1d335715c45012ec955c42cbe8c80326
-SHA1: 980af6551444f07954a7fe2305f8bec6ad7448f8
-SHA256: 9a91d6de8eb2af4e28aeef506ac8d5842aed214888fe702a0d436c3c6b4048c2
+Filename: ./debs/com.Polyphian.DepthsDGermanNorwegian_0.2_iphoneos-arm.deb
+Size: 22781708
+MD5sum: 11ebd6ee857d1115a56f19e467d51a08
+SHA1: 61644409ae102006e5ec8939b49f26c8b25e743a
+SHA256: dcb5abf256afe8e590828a94929a35c9186519a5b847f870536a45f3803a3f23
 Section: Laetus Language Packs
 Description: German & Norwegian keyplanes for Depths D Laetus theme.
 Author: Polyphian
@@ -169,11 +153,11 @@ Package: com.Polyphian.DepthsDJapanese
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsDJapaneseRomaji.deb
-Size: 3495344
-MD5sum: 0bec4cdd333fa25c64cd9c126090ddb4
-SHA1: 9fa5b99b2ea3ea4d78971cdfc8766199cf282308
-SHA256: eeadd5bb7a71dd31f4a3d4d17ccb0d7423afbb810e19bdab00d07f056405148d
+Filename: ./debs/com.Polyphian.DepthsDJapanese_0.2_iphoneos-arm.deb
+Size: 4267924
+MD5sum: 3d109db59af9fc28691b93aba1d03bbc
+SHA1: 443d5f34833ec3d79b08db912c77d972bed73c2a
+SHA256: 8c9e93e4bc3626d0442ca8f2bf897759a1489af6a4748c171cf1ac151456d88c
 Section: Laetus Language Packs
 Description: Japanese Romaji keyplanes for Depths D Laetus theme.
 Author: Polyphian
@@ -184,11 +168,11 @@ Package: com.Polyphian.DepthsDSwedish
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsDSwedish.deb
-Size: 4470204
-MD5sum: 5c308c7a6ff41e9d08583b81f0431990
-SHA1: 66fdee78e3e05163196e1367edc00f3779ef2453
-SHA256: d3a492e700be92c1aa52de0ade9b3ed754b63cb332e8098c0431961af0543578
+Filename: ./debs/com.Polyphian.DepthsDSwedish_0.2_iphoneos-arm.deb
+Size: 9096946
+MD5sum: 00e522b04c45612c1296c7cc34571e2f
+SHA1: d3ec533ec47a15d835dd5e1187d18b50d662a2eb
+SHA256: 34a4012170d1631b7fe55a0e7300e3cb88f70505401ef06838a7a58587f0fd60
 Section: Laetus Language Packs
 Description: Swedish keyplanes for Depths D Laetus theme.
 Author: Polyphian
@@ -199,11 +183,11 @@ Package: com.Polyphian.DepthsFrenchSpanish
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsFrench-Spanish.deb
-Size: 5541376
-MD5sum: 1f841e0e01301aceeeaa5594b0ff4112
-SHA1: 239765345e219cad007d2712494b0e112884fc3a
-SHA256: eda4ee4d92b2d63d849abbf73c013d4fe7e57155b2c27edc01ef8028ae1aae4e
+Filename: ./debs/com.Polyphian.DepthsFrenchSpanish_0.1_iphoneos-arm.deb
+Size: 36007234
+MD5sum: 623812a659c6f2b82ddca90363da11b5
+SHA1: 968fe5f25e78342941e248bfab6b3de71a19fb7c
+SHA256: a25d6a4d7c1bb903527835fc1735de1c1a64826cfb3687a3fb7089eb4d711246
 Section: Laetus Language Packs
 Description: French & Spanish keyplanes for Depths Laetus theme.
 Author: Polyphian
@@ -214,11 +198,11 @@ Package: com.Polyphian.DepthsGermanNorwegian
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsGerman-Norwegian.deb
-Size: 4528488
-MD5sum: fe22d071a615bc5d74a0d3132cd4720a
-SHA1: 96288854fae71e9f19003a457af29f9d3a6ee222
-SHA256: 5fcf3aaacd317797e3b207552932a1c40ef94fa60cb054456a5a80d464d568f4
+Filename: ./debs/com.Polyphian.DepthsGermanNorwegian_0.1_iphoneos-arm.deb
+Size: 23035196
+MD5sum: 3a00f33240d6a9f7583242db4936ab91
+SHA1: 6c59ad50b48736ef41c15ef81c0c38ff71e911c1
+SHA256: a175b0e8a8306d097fb01124bf0718c2ce114e8331da47096c226bbfce3a9885
 Section: Laetus Language Packs
 Description: German & Norwegian keyplanes for Depths Laetus theme.
 Author: Polyphian
@@ -229,11 +213,11 @@ Package: com.Polyphian.DepthsJapanese
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsJapaneseRomaji.deb
-Size: 3665696
-MD5sum: 06f4d67da1d4b7eb241ca399321fb292
-SHA1: 465d9e1f3d0739b26d3340f5f5cc1fd1350af0f1
-SHA256: 4d95b01fbb3f504e1bf0c160a98cd177d6475e1f7b9ce1ba7fdfa7c440403c09
+Filename: ./debs/com.Polyphian.DepthsJapanese_0.1_iphoneos-arm.deb
+Size: 4524612
+MD5sum: cff45f9d595973d6030032749777128c
+SHA1: 127ba26490f54d7bd7e759a67266d0286f2826a7
+SHA256: a3599c7ee28a6e15c326f54f25f784a8b94b40f841fd3291bc1e40b2ef4a852f
 Section: Laetus Language Packs
 Description: Japanese Romaji keyplanes for Depths Laetus theme.
 Author: Polyphian
@@ -244,43 +228,26 @@ Package: com.Polyphian.DepthsSwedish
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DepthsSwedish.deb
-Size: 4510032
-MD5sum: 22ef1e7cc9b8e8f43900472cffe0aed7
-SHA1: b0d5db3a766fcaef85104df8faec81baf7adede6
-SHA256: 91eeb46fc80c6de2e1eae9e267b598c22b21b59db70ff68c8501e941ac912caf
+Filename: ./debs/com.Polyphian.DepthsSwedish_0.1_iphoneos-arm.deb
+Size: 9209130
+MD5sum: 3a9065ec12526c6414131296369771ba
+SHA1: 1df2bf733038256bf739d79ee981b4f29fc57916
+SHA256: d448a0dfb1bb08fb821e1582623edde48f9b3f40a7bd55aa920ebc1f06390ca5
 Section: Laetus Language Packs
 Description: Swedish keyplanes for Depths Laetus theme.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Swedish)
 
-Package: com.Polyphian.Dustry
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: Polyphian
-Replaces: com.Polyphian.DustryGlow, com.Polyphian.DustryNoGrille, com.Polyphian.DustryGreen, com.Polyphian.DustryGreenGlow, com.Polyphian.DustryGreenGlowNoGrille
-Filename: ./debs/Dustry.deb
-Size: 7672556
-MD5sum: 715cfd8bb502dfd6364b381f597536ef
-SHA1: dee0321261346b85cc33cc374aad12930b95edca
-SHA256: 9ab630e2f99c145aa476a7172059d9cf486153f89d6d20f556e9bc28082da0cb
-Section: Laetus Themes
-Description: Keyboard theme for Laetus
-Author: Polyphian
-Depiction: https://polyphian.github.io/repo/dpict/Dustry.html
-Icon: https://polyphian.github.io/repo/icons/Dustry.png
-Name: Dustry
-
 Package: com.Polyphian.DustryArabic
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DustryArabic.deb
-Size: 2909972
-MD5sum: e36ef1e2f77e4014f98fab7008898f78
-SHA1: c589a7826ef4afca5564586ca70bb5884b0d0821
-SHA256: fd42e00527fb33c35bfa828cec1061109fce84e1eae5c2750fb360d7431e2106
+Filename: ./debs/com.Polyphian.DustryArabic_0.2_iphoneos-arm.deb
+Size: 2934978
+MD5sum: 0871eb0004749626c479d84df5e831b7
+SHA1: fffbdc8ce3a02f7899783a57c57a9d9bee162866
+SHA256: 1e089138726938219224247b5ba246eba0791f68ad0e338b56a9d6842f742ae5
 Section: Laetus Language Packs
 Description: Arabic keyplanes for Dustry Laetus theme.
 Author: Polyphian
@@ -291,11 +258,11 @@ Package: com.Polyphian.DustryChinese
 Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DustryChinese-Pinyin.deb
-Size: 3651236
-MD5sum: d8f7b1877e63bfec0bc2c3957a4456c2
-SHA1: 89c38df50fd7c5f664a087f5065998d2e7f1aec8
-SHA256: 1e3f7248dc277ec23dedc5b08f4c80adb19489350e9d88ec7e8bbc10bf531bf8
+Filename: ./debs/com.Polyphian.DustryChinese_0.4_iphoneos-arm.deb
+Size: 7519122
+MD5sum: d40083d38e64831bf445ccb217dc0e62
+SHA1: 42becda2019fc93a8936fc043e0c2804ba38729e
+SHA256: af99e3ee9c8a157481970d6f2bb8d23a4808988d9121a98cd4e08dac65538ef4
 Section: Laetus Language Packs
 Description: Chinese (Pinyin) keyplanes for Dustry Laetus theme.
 Author: Polyphian
@@ -306,11 +273,11 @@ Package: com.Polyphian.DustryFrenchSpanish
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DustryFrench-Spanish.deb
-Size: 4720500
-MD5sum: 214d09ed6925370a7d0464e36013f074
-SHA1: 753d00189bd7f19849b56bec1753e7cc899c1b11
-SHA256: ec3ef59b50bc0f88f5a8809f326a78651fee3b3ac47f8ac34a9bb5012a861311
+Filename: ./debs/com.Polyphian.DustryFrenchSpanish_0.2_iphoneos-arm.deb
+Size: 30178044
+MD5sum: ba855c318e45abe9bae838d244369b94
+SHA1: 632cb85c7dfb3e4f86070747d97554aadd37eca0
+SHA256: 902ce035d8b9beeff11583ffd5e3bc12d8a46463aaa714a8caee8f6760ab881b
 Section: Laetus Language Packs
 Description: French and Spanish keyplanes for Dustry Laetus theme.
 Author: Polyphian
@@ -321,32 +288,16 @@ Package: com.Polyphian.DustryGermanNorwegian
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DustryGerman-Norwegian.deb
-Size: 3590592
-MD5sum: 014dc1a1a4415b6bb858a9871b79641a
-SHA1: 9e38e245ad6a814125afb9ed73b1e99327cd8e6c
-SHA256: 9c7d54b9ce776b0503801ab32e87114cf16e2f6751b8949243a17ebbd0306cc9
+Filename: ./debs/com.Polyphian.DustryGermanNorwegian_0.2_iphoneos-arm.deb
+Size: 18036802
+MD5sum: 29c5de8a77ac459ac20422da9a20fe09
+SHA1: 03d677f5ac52a6d7895a3fe907f241914ca725dd
+SHA256: 08e4a8cb752e7ba48ce19a3e06ad4983a62ca3f86d1ca19e427d98ffc286e8e8
 Section: Laetus Language Packs
 Description: German and Norwegian keyplanes for Dustry Laetus theme.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (German & Norwegian)
-
-Package: com.Polyphian.DustryGlow
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Polyphian
-Replaces: com.Polyphian.Dustry, com.Polyphian.DustryNoGrille, com.Polyphian.DustryGreen, com.Polyphian.DustryGreenGlow, com.Polyphian.DustryGreenGlowNoGrille
-Filename: ./debs/Dustry Glow.deb
-Size: 7727532
-MD5sum: 42e3f986613a0dcfb700b50f5bf9ea18
-SHA1: e48cbed1d3905582b76eb2b088cb4bd81c700704
-SHA256: 7c1690aa90f8b7398ed06f8c10dff33fdffb66e03339d7c99e07249c9cadf914
-Section: Dustry Mods
-Description: Keyboard theme for Laetus
-Author: Polyphian
-Depiction: https://polyphian.github.io/repo/dpict/DustryGlow.html
-Name: Dustry Glow
 
 Package: com.Polyphian.DustryGreen
 Version: 0.2
@@ -368,11 +319,11 @@ Package: com.Polyphian.DustryJapanese
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DustryJapaneseRomaji.deb
-Size: 3045540
-MD5sum: 0d59c563df8e09915c96d73bebebf788
-SHA1: 4b0ce605a88757a9903303591ab5710d99357a95
-SHA256: 3d1bcd288064165d010fcd200f1a32ce0075284cf8e667648a9874663ea0f89c
+Filename: ./debs/com.Polyphian.DustryJapanese_0.2_iphoneos-arm.deb
+Size: 3772718
+MD5sum: 9a2d73b96888337e84ad100e00280888
+SHA1: cb34e7fb64e36da7c40cc04c884202aea7576395
+SHA256: e5d7edf5356888089b6f70a9c1bcdb098d1cff642630d9b896b543c5d1473ec2
 Section: Laetus Language Packs
 Description: Japanese Romaji keyplanes for Dustry Laetus theme.
 Author: Polyphian
@@ -399,42 +350,26 @@ Package: com.Polyphian.DustrySwedish
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/DustrySwedish.deb
-Size: 2337008
-MD5sum: 5ad66a50965c45d7917dfb90970f5f08
-SHA1: e265eec3da912c368ec23ce2e7133546f11fa2ba
-SHA256: 1b63bab8bcf2b424f72eedfe93d6d3cac6fbb34a2106e11a8020b9b5b94d8613
+Filename: ./debs/com.Polyphian.DustrySwedish_0.2_iphoneos-arm.deb
+Size: 4690514
+MD5sum: 0a5d35d66b22efc2878428c8ee7901b3
+SHA1: ca05ebe78c2b270456462c1e645592bffa25403d
+SHA256: 12b2c5df9f4de822efb95d9d3d6df9d8c1f7f0da26ce999fa2d8ce8ae4b966d3
 Section: Laetus Language Packs
 Description: Swedish keyplanes for Dustry Laetus theme.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (Swedish)
 
-Package: com.Polyphian.Flateau
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Polyphian
-Filename: ./debs/Flateau.deb
-Size: 4955468
-MD5sum: 8159bb337e069241de8e4e6764eaeed9
-SHA1: dee4995ef2c090d9770ef4c44917ebf04b147198
-SHA256: bd8fe0d38a39fec484974acb0723f4cbfabdaf8fff8ee7bd6d3a87dea2632f79
-Section: Laetus Themes
-Description: Keyboard theme for Laetus
-Author: Polyphian
-Depiction: https://polyphian.github.io/repo/dpict/Flateau.html
-Icon: https://polyphian.github.io/repo/icons/Flateau.png
-Name: Flateau
-
 Package: com.Polyphian.FlateauArabic
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/FlateauArabic.deb
-Size: 4376596
-MD5sum: 1c2356c69ed7005d8bcac0cb5ba6e3c4
-SHA1: 8649c1e7946177a9cb9843a51e49d65456bccc3d
-SHA256: 6a0943bd386e53eaed52dc73e9ab97247a67f52ef3f707883da0812122c2bb6d
+Filename: ./debs/com.Polyphian.FlateauArabic_0.1_iphoneos-arm.deb
+Size: 4387918
+MD5sum: abcef3eb6f5416383f8c279ade074841
+SHA1: 72ade01e183c00a1688abe2a7cd3ac172bcc8603
+SHA256: d2537e10089942c778e7f86be85ccf7bb3a7b2f722b9ba69f2bd7fdebbfe346f
 Section: Laetus Language Packs
 Description: Arabic keyplanes for Flateau Laetus theme.
 Author: Polyphian
@@ -445,11 +380,11 @@ Package: com.Polyphian.FlateauChinese
 Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/FlateauChinese-Pinyin.deb
-Size: 3786880
-MD5sum: 5a185a473c8fa43fab84c51203fbfed7
-SHA1: 19880c88d80f7cf3a5b58c753971ced9cb0be66d
-SHA256: 4615176766f704f20c21fa795c0e8c2cec68201468b55318510398908930e8c5
+Filename: ./debs/com.Polyphian.FlateauChinese_0.2_iphoneos-arm.deb
+Size: 7947392
+MD5sum: 9eb6245cf657693822c4b9f25ec28295
+SHA1: 6d3bd9eea15f414357d33eb563ad7f5a9d86cf09
+SHA256: e6434c2fed0ad785b52218c6ce27727a1b54b6e2391ebce352f740da56000b05
 Section: Laetus Language Packs
 Description: Chinese (Pinyin) keyplanes for Flateau Laetus theme.
 Author: Polyphian
@@ -460,11 +395,11 @@ Package: com.Polyphian.FlateauFrenchSpanish
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/FlateauFrench-Spanish.deb
-Size: 4714768
-MD5sum: db8f704eda8c32d4b990e65e14b8a2de
-SHA1: 6416d7486f0147e818f49483fb5d98a41c3afad4
-SHA256: 6c194435b9051e6a2e6714373b18b3adba7f1d4f02907a07c67b02fe176c0d6f
+Filename: ./debs/com.Polyphian.FlateauFrenchSpanish_0.1_iphoneos-arm.deb
+Size: 31808648
+MD5sum: 1f191ccfc20494d40ec32bc85c053b27
+SHA1: 76f1056355e7e67cedd2461515560a79c51c51a0
+SHA256: 5b77d78f453cb43226fcbb595b36a71c06ece42ef0b4f243e87e7aac68d4b354
 Section: Laetus Language Packs
 Description: French & Spanish keyplanes for Flateau Laetus theme.
 Author: Polyphian
@@ -475,11 +410,11 @@ Package: com.Polyphian.FlateauGermanNorwegian
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/FlateauGerman-Norwegian.deb
-Size: 4187604
-MD5sum: 8c03116b218b22bc17f2e5b17e03e766
-SHA1: 60de1931d720c5d5e1c94c7b34cf1ac95ece742a
-SHA256: 5c8eed30fb4c5a387cb6fad73107a8a5049c41dbba6b23fd0f262a4afef353ad
+Filename: ./debs/com.Polyphian.FlateauGermanNorwegian_0.1_iphoneos-arm.deb
+Size: 20976986
+MD5sum: 95c6a32e4167d7163960dd48cd71d9ad
+SHA1: 3a0ac381d1e7cae043ec7114110ad0df7887f7e8
+SHA256: c784ac4a543f48489a62559c0e7370260b3ea54798600e7331ab3088673e2049
 Section: Laetus Language Packs
 Description: German & Norwegian keyplanes for Flateau Laetus theme.
 Author: Polyphian
@@ -490,11 +425,11 @@ Package: com.Polyphian.FlateauJapanese
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/FlateauJapaneseRomaji.deb
-Size: 3307460
-MD5sum: 59301afac67abe2bdb2b2272ff392297
-SHA1: ffaae86b3533c4f13b2a752291ba3edf1f6ec636
-SHA256: 2e568d6515fd4367f98bdbed25d5f8c5b00af441d51bdc75622f1f6c136f831d
+Filename: ./debs/com.Polyphian.FlateauJapanese_0.1_iphoneos-arm.deb
+Size: 3976672
+MD5sum: ee2710d1268a9c15790c0aa67c973e78
+SHA1: f481b66fc0042820c0940f81c1bae18cd5762388
+SHA256: fe85215e63d7be79cfa628495e82a44cb59828a820c6910053b15ac49a8d8b91
 Section: Laetus Language Packs
 Description: Japanese Romaji keyplanes for Flateau Laetus theme.
 Author: Polyphian
@@ -505,11 +440,11 @@ Package: com.Polyphian.FlateauSwedish
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/FlateauSwedish.deb
-Size: 4185456
-MD5sum: e2b8bedf8cb6629ea673e1ad6d435891
-SHA1: eccaad604911aa8fb7c473968ee73a949dd74f7f
-SHA256: 9326a4e2f191fa92c76fbafbbe14dae02378a4de82c97b2eb859bfd73ee2d5fe
+Filename: ./debs/com.Polyphian.FlateauSwedish_0.1_iphoneos-arm.deb
+Size: 8391214
+MD5sum: 67acdc94a6d52ed8de07b4dd00d8a69e
+SHA1: be10e05c8a0d49f70ad7fa794134435600dd35de
+SHA256: 037be0bf79c1ecb6485b904933ef019f9b81eb7b06c3ddfbd1c8b09689e8256c
 Section: Laetus Language Packs
 Description: Swedish keyplanes for Flateau Laetus theme.
 Author: Polyphian
@@ -531,31 +466,15 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
 Name: Keystroke Sounds
 
-Package: com.Polyphian.Lustry
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Polyphian
-Filename: ./debs/Lustry.deb
-Size: 8559908
-MD5sum: 2a740cded1385c0cd106a542d6e68094
-SHA1: 330fde04ea1f09669e37cbc7af4f4ce909894d7e
-SHA256: 3a95befbfcb495d74b8df6ea6cd5bfb8f7bed3ced0e9566595eced245dfbd198
-Section: Laetus Themes
-Description: Keyboard theme for Laetus
-Author: Polyphian
-Depiction: https://polyphian.github.io/repo/dpict/Lustry.html
-Icon: https://polyphian.github.io/repo/icons/Lustry.png
-Name: Lustry
-
 Package: com.Polyphian.LustryArabic
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/LustryArabic.deb
-Size: 3554212
-MD5sum: d8a239d696488a5bdef4eef6e36fc8ac
-SHA1: de453afd7abab920f33d26d279626c34fcffd01e
-SHA256: 926e2858cb4fdd021696533012a9bb5270ec3d469fd6511b976c543f6f4362a7
+Filename: ./debs/com.Polyphian.LustryArabic_0.1_iphoneos-arm.deb
+Size: 3585542
+MD5sum: 00da4cdc77bb55252c7aa732256c3071
+SHA1: fa8001b5d7ec84d7c57c7ffad6f7d17f972ab272
+SHA256: f99604c1850fdf49d7ae039c6d8155f96b67b43ba4623c6519b4e2b1e59b1952
 Section: Laetus Language Packs
 Description: Arabic keyplanes for Lustry Laetus theme.
 Author: Polyphian
@@ -566,11 +485,11 @@ Package: com.Polyphian.LustryChinese
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/LustryChinese-Pinyin.deb
-Size: 4008124
-MD5sum: b60bd139fecc6a0f1a19add925418cbe
-SHA1: 303521bc8421c5ef20d59d32424d471ab51beb2f
-SHA256: 25366714c586f29b8abf1619af1cde3d374ba5b061574f9aa1b4f374c04c7f5d
+Filename: ./debs/com.Polyphian.LustryChinese_0.1_iphoneos-arm.deb
+Size: 8236720
+MD5sum: 2cc75d245d3932aa70ef1a72908a6146
+SHA1: 91ba46f897491367cf28dab10dc168bafe2bf9a9
+SHA256: f07c8aa0d0449f4edebb31da1cc49be552af7de4fb14e11ac95c305a1851526a
 Section: Laetus Language Packs
 Description: Chinese (Pinyin) keyplanes for Lustry Laetus theme.
 Author: Polyphian
@@ -581,11 +500,11 @@ Package: com.Polyphian.LustryFrenchSpanish
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/LustryFrench-Spanish.deb
-Size: 4404088
-MD5sum: 25afd79174a8f634b5eb700f60901ace
-SHA1: 5158f088e084e44a02ab3d964ae6307b09a196ef
-SHA256: 2644c7af84a132f904db436e59d1e0e9b5d406474dfdf3784ac54a2d7476b35b
+Filename: ./debs/com.Polyphian.LustryFrenchSpanish_0.1_iphoneos-arm.deb
+Size: 33049048
+MD5sum: 67819544928ad0ab224321e9a18c169e
+SHA1: 7fdf1747eae6a2df3899d35e62e93e9cb9d423a8
+SHA256: c3388f184dfa1a4eedada83cc3f3f70884bc519f93c449a89d3e715b5624e83d
 Section: Laetus Language Packs
 Description: French and Spanish keyplanes for Lustry Laetus theme.
 Author: Polyphian
@@ -596,11 +515,11 @@ Package: com.Polyphian.LustryGermanNorwegian
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/LustryGerman-Norwegian.deb
-Size: 4210524
-MD5sum: 91ca2b4cd0374cec5c6cdbb1aa655425
-SHA1: a5c0ed9bef99cb5624d085ae786492f252f14a81
-SHA256: 5a6332eee9ec0f73a90bd2e406566d489b49ee9a7b65f9aa3cfe0e3ad993e188
+Filename: ./debs/com.Polyphian.LustryGermanNorwegian_0.1_iphoneos-arm.deb
+Size: 21142874
+MD5sum: 8c4883bbb5add7a07c49152f98ef9dfa
+SHA1: 4f61f66aaf8819867f5c8dd0a60b2be70cee6fcd
+SHA256: fb559767fb69848171aa25488063144f424870cbb464413daf53e59c97adce39
 Section: Laetus Language Packs
 Description: German and Norwegian keyplanes for Lustry Laetus theme.
 Author: Polyphian
@@ -611,11 +530,11 @@ Package: com.Polyphian.LustryJapanese
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/LustryJapaneseRomaji.deb
-Size: 3293288
-MD5sum: 1f9c2e839407f1b0506f7f74bb88ed6d
-SHA1: 3f95521c7a7910c3bbde033d840c13a566d9c200
-SHA256: 8f990a8479fce25af8c900949b95769a157b61461e28db2c1bcaf289eb3f88c1
+Filename: ./debs/com.Polyphian.LustryJapanese_0.1_iphoneos-arm.deb
+Size: 4131788
+MD5sum: 3fa298a162b6ec7f239854046011a9b4
+SHA1: df88c38465ff6b29caa2b2b96bda16c62acff17c
+SHA256: 9c3d26f6c7b7a817c72d634031a7da77f761a463d5835c23925c5f1f269602ca
 Section: Laetus Language Packs
 Description: Japanese Romaji keyplanes for Lustry Laetus theme.
 Author: Polyphian
@@ -626,11 +545,11 @@ Package: com.Polyphian.LustrySwedish
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/LustrySwedish.deb
-Size: 4207588
-MD5sum: b42ae561bca93e7ad4e168e73967de0a
-SHA1: 14bf860da1f556d9080d120b0095e0b1e746450c
-SHA256: 2dc85799bd18230125c75bce50311f4ac3c0302e0b77c4519ad1915f3e58d2e6
+Filename: ./debs/com.Polyphian.LustrySwedish_0.1_iphoneos-arm.deb
+Size: 8457580
+MD5sum: 1a403251779d20d66558fb9c3d3e2514
+SHA1: 8d037eeedfad032b15371fb45e1527fe3a0b2653
+SHA256: fb127479cd913fe20341a5fe2f832cc725499e0b3c5ec539e850205bf28b62e8
 Section: Laetus Language Packs
 Description: Swedish keyplanes for Lustry Laetus theme.
 Author: Polyphian
