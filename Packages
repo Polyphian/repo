@@ -47,11 +47,11 @@ Package: com.Polyphian.Depths
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Polyphian
-Filename: ./debs/Depths.deb
-Size: 8857768
-MD5sum: 1224b52352bdbaa20d0629a78a9e2149
-SHA1: c6a695294e1e6f53d121b3bae0bb0dedb5ddbb0c
-SHA256: fe3230be00b547af7d2c732a3ea3f9e23d7403b93ec715cab95e4f80cc4a0ef5
+Filename: ./debs/com.Polyphian.Depths_0.1_iphoneos-arm.deb
+Size: 19558254
+MD5sum: 46872ca5e5972f55642b7fe43366d40c
+SHA1: 3f5635d35819eb80351e7cb8affc76596a731797
+SHA256: 5d5523635a4ca75c528e6e9418232a42df14a5aa259734f15dcb85706780b9c2
 Section: Laetus Themes
 Description: Keyboard theme for Laetus
 Author: Polyphian
