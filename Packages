@@ -89,6 +89,22 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Chinese Pinyin)
 
+Package: com.Polyphian.DepthsD
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DepthsD_0.2_iphoneos-arm.deb
+Size: 12265808
+MD5sum: 9f1625c0fc133412dadccb9b2faa68ff
+SHA1: f596336b25a4de255821703c48832b61e925cbb9
+SHA256: a12b9c11e253e363ba7c7dd5cede0dc61492b219a74539b934b8ff3d48395811
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DepthsD.html
+Icon: https://polyphian.github.io/repo/icons/DepthsD.png
+Name: Depths D
+
 Package: com.Polyphian.DepthsDArabic
 Version: 0.2
 Architecture: iphoneos-arm
@@ -239,6 +255,23 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Swedish)
 
+Package: com.Polyphian.Dustry
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.DustryGlow, com.Polyphian.DustryNoGrille, com.Polyphian.DustryGreen, com.Polyphian.DustryGreenGlow, com.Polyphian.DustryGreenGlowNoGrille
+Filename: ./debs/com.Polyphian.Dustry_0.3_iphoneos-arm.deb
+Size: 8961370
+MD5sum: a9a3b817f5b1fe43713e04e3e8eb5501
+SHA1: e0a1052f24cb25e8344879e92ae86abe8d971c7b
+SHA256: 6ad4832fdb879de1b3278282ff5f600980cb78645f33e37cb85c204d650e5d81
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Dustry.html
+Icon: https://polyphian.github.io/repo/icons/Dustry.png
+Name: Dustry
+
 Package: com.Polyphian.DustryArabic
 Version: 0.2
 Architecture: iphoneos-arm
@@ -298,6 +331,22 @@ Description: German and Norwegian keyplanes for Dustry Laetus theme.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (German & Norwegian)
+
+Package: com.Polyphian.DustryGlow
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.Dustry, com.Polyphian.DustryNoGrille, com.Polyphian.DustryGreen, com.Polyphian.DustryGreenGlow, com.Polyphian.DustryGreenGlowNoGrille
+Filename: ./debs/com.Polyphian.DustryGlow_0.2_iphoneos-arm.deb
+Size: 9280268
+MD5sum: 79d0a81b925310d6b7d46f2b247e66ea
+SHA1: 26f2b55a0a0572824f744d88452fb9417252aac2
+SHA256: 3fcd4eb763d208d9bf1dc0b00b2081b7de9cbc5033d88702856ce8aa9b8d918e
+Section: Dustry Mods
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DustryGlow.html
+Name: Dustry Glow
 
 Package: com.Polyphian.DustryGreen
 Version: 0.2
@@ -360,6 +409,22 @@ Description: Swedish keyplanes for Dustry Laetus theme.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Dustry (Swedish)
+
+Package: com.Polyphian.Flateau
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Flateau_0.1_iphoneos-arm.deb
+Size: 7765048
+MD5sum: b3ce58d3852f92d111eb3d8370783fe3
+SHA1: 4d43f0291ec665bdc18fd097607f3da3a95b480d
+SHA256: 4af0b3649eec2081484e60f671a1d8f08c7a1cbc2a68f41f3e11b90994853321
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Flateau.html
+Icon: https://polyphian.github.io/repo/icons/Flateau.png
+Name: Flateau
 
 Package: com.Polyphian.FlateauArabic
 Version: 0.1
@@ -465,6 +530,22 @@ Description: Realistic keyboard sounds.
 Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/Keystrokes.html
 Name: Keystroke Sounds
+
+Package: com.Polyphian.Lustry
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.Lustry_0.1_iphoneos-arm.deb
+Size: 9948754
+MD5sum: 0daa8d8f7e0f8504eee1448831ed5608
+SHA1: e8e5f37067f2bf3ef8bd088a53ec54ea792deb47
+SHA256: 4cc629a569d0c00b3b9c4f17d9636659859ae802fd7a91a08a5052be37e590f0
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Lustry.html
+Icon: https://polyphian.github.io/repo/icons/Lustry.png
+Name: Lustry
 
 Package: com.Polyphian.LustryArabic
 Version: 0.1
