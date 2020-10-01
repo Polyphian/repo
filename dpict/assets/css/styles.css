@@ -31,6 +31,12 @@ a {
 }
 
 .shadow {
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15), -5px -5px 10px -5px rgba(255,255,255,0.3)!important;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15), -5px -5px 10px -5px rgba(255,255,255,0.09)!important;
+}
+
+.table td, .table th {
+  padding: .75rem;
+  vertical-align: top;
+  border-top: 1px solid rgba(222,226,230,0.03);
 }
 
