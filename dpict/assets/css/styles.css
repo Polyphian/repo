@@ -9,3 +9,24 @@ a {
   background-color: transparent;
 }
 
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,0);
+  border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgba(128,128,128,0);
+  /*background-clip: border-box;*/
+  border: 1px solid #510d0d;
+  border-radius: 18px;
+}
+
