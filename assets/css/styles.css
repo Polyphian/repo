@@ -101,3 +101,8 @@ body {
   border-color: rgba(0,0,0,0) rgba(233,236,239,0) rgba(222,226,230,0);
 }
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
