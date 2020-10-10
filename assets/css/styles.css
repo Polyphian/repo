@@ -62,8 +62,8 @@
   border-radius: .25rem;
 }
 
-a:hover {
-  color: #0056b3;
+a2 {
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -104,5 +104,23 @@ body {
 html, body {
   max-width: 100%;
   overflow-x: hidden;
+}
+
+#navwrap {
+  position: sticky;
+  /*top: 0px;*/
+  -webkit-backdrop-filter: blur(10px);
+}
+
+a2 {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a2 {
+  color: #6096ff;
+  text-decoration: none;
+  background-color: transparent;
 }
 

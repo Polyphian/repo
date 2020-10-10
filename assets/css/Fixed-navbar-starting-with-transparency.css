@@ -1,0 +1,80 @@
+.navbar.navbar-default.navbar-transparency, .navbar.navbar-inverse.navbar-transparency {
+  background: transparent;
+}
+
+.navbar.navbar-default:not(.navbar-transparency), .navbar.navbar-default:not(.navbar-transparency) .dropdown-menu, .navbar.navbar-default.navbar-transparency.navchange, .navbar.navbar-default.navbar-transparency.navchange .dropdown-menu, .navbar:not(.navbar-transparency) .dropdown-menu, .navbar.navbar-default:not(.navbar-fixed-top).navbar-transparency {
+  background: #dddddd;
+}
+
+.navbar.navbar-inverse:not(.navbar-transparency), .navbar.navbar-inverse:not(.navbar-transparency) .dropdown-menu, .navbar.navbar-inverse.navbar-transparency.navchange, .navbar.navbar-inverse.navbar-transparency.navchange .dropdown-menu, .navbar:not(.navbar-transparency) .dropdown-menu, .navbar.navbar-inverse:not(.navbar-fixed-top).navbar-transparency {
+  background: #333333;
+}
+
+@media (max-width:767px) {
+  .navbar.navbar-default .navbar-nav, .navbar.navbar-default.navbar-transparency, .navbar.navbar-default, .navbar.navbar-default .navbar-collapse {
+    background: #dddddd;
+  }
+}
+
+@media (max-width:767px) {
+  .navbar.navbar-inverse .navbar-nav, .navbar.navbar-inverse.navbar-transparency, .navbar.navbar-inverse, .navbar.navbar-inverse .navbar-collapse {
+    background: #333333;
+  }
+}
+
+.navbar.navbar-default .navbar-nav > li > a, .navbar.navbar-default a.navbar-brand.navbar-link, .navbar.navbar-default a.navbar-brand.navbar-link:hover {
+  color: #000000;
+  background: none;
+}
+
+.navbar.navbar-inverse .navbar-nav > li > a, .navbar.navbar-inverse a.navbar-brand.navbar-link, .navbar.navbar-inverse a.navbar-brand.navbar-link:hover {
+  color: #ffffff;
+  background: none;
+}
+
+.navbar.navbar-default .navbar-nav > li > a:hover, .navbar.navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav > .open > a, .navbar.navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .navbar.navbar-default .dropdown-menu, .navbar.navbar-default .dropdown-menu li > a:hover, .navbar.navbar-default .dropdown-menu li > a:focus {
+  color: #000000;
+  background: rgba(255,255,255,.4);
+}
+
+.navbar.navbar-inverse .navbar-nav > li > a:hover, .navbar.navbar-inverse .navbar-nav > li.active > a, .navbar-inverse .navbar-nav > .open > a, .navbar.navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus, .navbar.navbar-inverse .dropdown-menu, .navbar.navbar-inverse .dropdown-menu li > a:hover, .navbar.navbar-inverse .dropdown-menu li > a:focus {
+  color: #ffffff;
+  background: rgba(0,0,0,.2);
+}
+
+.navbar.navbar-default .dropdown-menu li a {
+  color: #000000 !important;
+}
+
+.navbar.navbar-inverse .dropdown-menu li a {
+  color: #ffffff !important;
+}
+
+.navbar.navbar-default .dropdown-menu li a:hover, .navbar.navbar-default .dropdown-menu li.active a {
+  background-image: none !important;
+  background: rgba(255,255,255,.4) !important;
+}
+
+.navbar.navbar-inverse .dropdown-menu li a:hover, .navbar.navbar-inverse .dropdown-menu li.active a {
+  background-image: none !important;
+  background: rgba(0,0,0,.2) !important;
+}
+
+.navbar.navbar-default .icon-bar {
+  background: #000000;
+}
+
+.navbar.navbar-inverse .icon-bar {
+  background: #ffffff;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: rgba(255,255,255,.6);
+  border-width: 1px;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: rgba(0,0,0,.6);
+  border-width: 1px;
+}
+

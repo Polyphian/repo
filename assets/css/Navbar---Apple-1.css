@@ -1,0 +1,68 @@
+.navbar--apple .nav-link {
+  color: #ffffff !important;
+  font-size: 13px;
+}
+
+.navbar--apple .apple-logo {
+  font-size: 21px;
+  line-height: 0;
+}
+
+.navbar--apple {
+  background-color: initial !important;
+}
+
+.navbar--apple .navbar-toggler {
+  padding: 0;
+  font-size: 1.25rem;
+  line-height: 1;
+  border: 0;
+  border-radius: 0;
+}
+
+.navbar--apple .navbar-toggler-icon {
+  background-image: none;
+  line-height: 2rem;
+}
+
+@media (max-width: 576px) {
+  .navbar--apple #menu {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar--apple #menu li a {
+    font-size: 17px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+}
+
+.navbar--opened .navbar--apple::before {
+  height: 100%;
+}
+
+.navbar--apple::before {
+  background: rgba(0,0,0,0.8);
+  transition: height 0.2s ease-in;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  z-index: -1;
+}
+
+@media (min-width: 768px) {
+  .navbar--apple::before {
+    height: 50px !important;
+  }
+}
+
+.navbar--opened .navbar--apple::before {
+  background: rgba(0,0,0,0.93);
+}
+
