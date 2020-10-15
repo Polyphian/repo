@@ -112,3 +112,24 @@ html, body {
   -webkit-backdrop-filter: blur(10px);
 }
 
+#stickThis {
+  padding: 5px;
+  background-color: #ccc;
+  font-size: 1.5em;
+  width: 300px;
+  text-align: center;
+  font-weight: bold;
+  border: 2px solid #444;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+#stickThis.Stick {
+  margin-top: 0;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+  -webkit-border-radius: 0 0 10px 10px;
+  border-radius: 0 0 10px 10px;
+}
+

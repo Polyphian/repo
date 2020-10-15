@@ -376,6 +376,23 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Greek)
 
+Package: com.Polyphian.DepthsIconsLite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.DepthsIcons
+Filename: ./debs/com.Polyphian.DepthsIconsLite_1.0_iphoneos-arm.deb
+Size: 2559400
+MD5sum: ca5de5a5243b3dbb82663970d63ca5a4
+SHA1: 93249814f37ad383439de6eb39f1c2a44d0e5c4f
+SHA256: c773ce33b1e43f832bf7e3b56c2c9608a48838135f226916949f2574bd4cacdd
+Section: Themes
+Description: Highly customizable 3D-like theme. (Free version)
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DepthsIcons.html
+Icon: https://polyphian.github.io/repo/icons/DepthsLiteIcon.html
+Name: Depths Lite
+
 Package: com.Polyphian.DepthsJapanese
 Version: 0.1
 Architecture: iphoneos-arm
