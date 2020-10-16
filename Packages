@@ -382,10 +382,10 @@ Architecture: iphoneos-arm
 Maintainer: Polyphian
 Replaces: com.Polyphian.DepthsIcons
 Filename: ./debs/com.Polyphian.DepthsIconsLite_1.1_iphoneos-arm.deb
-Size: 2532240
-MD5sum: 18804cd01848e9ff1abf2f5f528428a6
-SHA1: 9f093670b4aeb1f42160394d84a2daebc592a8cd
-SHA256: 4d39becc14f7bc40896a7a11b9f7295e76aad474b56e372c3d99b617b4ed7cba
+Size: 2531122
+MD5sum: c4952bdf2a687e56fe73e40ea0d614ed
+SHA1: a31f519aa596067ed9c8ad523e5d086bb335b14a
+SHA256: fcc06670e01d881600cfda30849a8085199146c05dcd2f8bb1782e19bcf0fae7
 Section: Themes
 Description: Highly customizable 3D-like theme. (Free version)
 Author: Polyphian
