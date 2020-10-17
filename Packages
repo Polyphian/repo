@@ -408,6 +408,23 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/General.html
 Name: Depths (Japanese-Romaji)
 
+Package: com.Polyphian.DepthsL
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Replaces: com.Polyphian.Depths
+Filename: ./debs/com.Polyphian.DepthsL_0.1_iphoneos-arm.deb
+Size: 19558264
+MD5sum: 4d1f91b1d8f4e3838523bdc691f82324
+SHA1: 418e838699dd0d85a65425efec60f8360ceb3b10
+SHA256: 75dad9af2720fe887e565e182614140ed379edd15db97caefac34e45f8198cd6
+Section: Laetus Themes
+Description: Keyboard theme for Laetus
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/Depths.html
+Icon: https://polyphian.github.io/repo/icons/Depths.png
+Name: Depths L
+
 Package: com.Polyphian.DepthsN
 Version: 0.1
 Architecture: iphoneos-arm
