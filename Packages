@@ -43,6 +43,21 @@ Author: Polyphian
 Depiction: https://polyphian.github.io/repo/dpict/ChonkyN95.html
 Name: Chonky - N95
 
+Package: com.Polyphian.DeepDock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Polyphian
+Filename: ./debs/com.Polyphian.DeepDock_1.0_iphoneos-arm.deb
+Size: 150384
+MD5sum: d8e3e914d187a624f6be87a512a96870
+SHA1: ef45d155072765d24ebe6d4c9e192e389b778dcd
+SHA256: 6b5922f7f0a61e7dde9edc23426cb1788a6a848bafb72cc7cd02a0e708592fa3
+Section: Docks
+Description: Simple shadow themed dock.
+Author: Polyphian
+Depiction: https://polyphian.github.io/repo/dpict/DeepDock.html
+Name: Deep Dock
+
 Package: com.Polyphian.DepthsArabic
 Version: 0.1
 Architecture: iphoneos-arm
