@@ -19,10 +19,10 @@
     <link rel="stylesheet" href="assets/css/Devices.css">
     <link rel="stylesheet" href="assets/css/Highlight-Clean.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-    <link rel="stylesheet" href="assets/css/JLX-Fixed-Nav-on-Scroll.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/JLX-Fixed-Nav-on-Scroll.css">
     <link rel="stylesheet" href="assets/css/Simple-Slider.css">
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
@@ -121,13 +121,15 @@
         <div style="margin-top: 4px;">
             <p class="text-center" style="font-style: italic;font-size: 17px;color: rgb(229,242,255);margin-bottom: 0px;font-family: SFCompactRounded;font-weight: bold;"><em>Lite Version</em></p>
             <p class="text-center" style="font-style: italic;font-size: 13px;color: rgb(229,242,255);margin-bottom: 0px;font-family: SFCompactRounded;"><em>(3rd Party App Icons not included)</em></p>
-        </div><img class="img-fluid" src="assets/img/thicc.png" style="padding-top: 0px;margin-bottom: 54px;"></div>
+        </div><img class="img-fluid" src="assets/img/thicc.png" style="padding-top: 0px;margin-bottom: 54px;">
+    </div>
     <div class="text-center" style="background-image: linear-gradient(180deg, #ACB4B7 0%, #535C62 100%);"><img class="img-fluid" src="assets/img/t_arcade.png" style="padding-top: 40px;padding-right: 10%;padding-left: 10%;">
         <div style="margin-top: 4px;">
             <p class="text-center" style="font-style: italic;font-size: 13px;color: rgb(229,242,255);margin-bottom: 0px;font-family: SFCompactRounded;"><em>Supplemental icon theme to use with Chonky, or use alone.</em></p>
-        </div><img class="img-fluid" src="assets/img/repoArcade.png" style="padding-top: 40px;padding-right: 12px;padding-left: 12px;"></div>
+        </div><img class="img-fluid" src="assets/img/repoArcade.png" style="padding-top: 40px;padding-right: 12px;padding-left: 12px;">
+    </div>
     <div class="d-flex justify-content-between" style="overflow-x: scroll;overflow-y: hidden;white-space: nowrap;padding: 28px;padding-top: 10px;padding-right: 0px;margin-right: 0px;height: 101px;margin-left: -26px;margin-top: 0px;background-color: #535c62;">
-        <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 0px;"><img src="assets/img/com.microsoft.gearspop-large.png" width="100%" style="width: 67px;"></div>
+        <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 0px;"><img src="assets/img/com.microsoft.gearspop-large.png" width="100%" style="width: 67px;" onclick="openWeather()"></div>
         <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 8px;"><img src="assets/img/com.ubisoft.accovenant-large.png" width="100%" style="width: 67px;"></div>
         <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 8px;"><img src="assets/img/com.supercell.laser-large.png" width="100%" style="width: 67px;"></div>
         <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 8px;"><img src="assets/img/com.supercell.scroll-large.png" width="100%" style="width: 67px;"></div>
@@ -146,7 +148,7 @@
             <h5 class="text-center" id="13subheader" style="color: rgb(229,242,255);">+ more than 150 user requested icons</h5>
         </div>
         <div class="d-flex justify-content-between" id="13display" style="overflow-x: scroll;overflow-y: hidden;white-space: nowrap;padding: 26px;padding-top: 0px;padding-right: 0px;margin-right: 0;height: 114px;margin-left: -26px;margin-top: 49px;">
-            <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 0px;"><img src="assets/img/com.apple.facetime-large.png" width="100%" style="width: 67px;"></div>
+            <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 0px;"><img src="assets/img/com.apple.facetime-large.png" width="100%" style="width: 67px;" onclick="openWeather()"></div>
             <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 8px;"><img src="assets/img/com.apple.mobilecal-large.png" width="100%" style="width: 67px;"></div>
             <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 8px;"><img src="assets/img/com.apple.mobileslideshow-large.png" width="100%" style="width: 67px;"></div>
             <div class="text-center" style="margin-right: 8px;padding-left: 12px;padding-right: 12px;margin-left: 8px;"><img src="assets/img/com.apple.camera-large.png" width="100%" style="width: 67px;"></div>
@@ -181,23 +183,22 @@
         </div>
     </div>
     <div class="text-center" style="background-color: #42494e;margin-top: 0px;padding-top: 29px;/*display: none;*/padding-bottom: 31px;"><a class="shadow-lg" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://polyphian.github.io/repo/" style="background-color: #636363;padding-top: 8px;padding-bottom: 8px;padding-right: 12px;padding-left: 12px;border-radius: 7px;color: rgb(255,255,255);">Jump to Cydia</a></div>
-    <div
-        class="text-center" style="padding-left: 18px;padding-right: 18px;background-color: #f5f5f0;padding-top: 21px;padding-bottom: 7px;">
+    <div class="text-center" style="padding-left: 18px;padding-right: 18px;background-color: #f5f5f0;padding-top: 21px;padding-bottom: 7px;">
         <p style="color: rgb(38,38,38);font-size: 10px;margin-top: 0px;font-weight: bold;">&nbsp;If you appreciate my time and efforts in making these themes and want to say thanks, any sized tip goes a long way in supporting late night future developments and improvements.</p><i class="fa fa-coffee" style="color: #ff9900;font-size: 23px;"></i>
         <hr><a class="btn btn-info btn-sm" role="button" style="margin-top: 6px;" href="http://paypal.com/paypalme/polyphian">Leave a Tip</a>
         <p style="color: rgb(23,162,184);font-size: 10px;font-style: italic;"><em>https://paypal.me/polyphian</em></p>
-        </div>
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-        <script src="assets/js/smart-forms.min.js"></script>
-        <script src="assets/js/bs-animation.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
-        <script src="assets/js/Animated-Type-Heading.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
-        <script src="assets/js/popop.js"></script>
-        <script src="assets/js/scripts.js"></script>
-        <script src="assets/js/Simple-Slider.js"></script>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/smart-forms.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="assets/js/Animated-Type-Heading.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
+    <script src="assets/js/popop.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/Simple-Slider.js"></script>
 </body>
 
 </html>
