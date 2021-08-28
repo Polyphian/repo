@@ -23,20 +23,20 @@
 
 
   "12m": {
-    "Text 1 Size": "",
-    "Text 2 Size": "",
+    "Text 1 Size": "42",
+    "Text 2 Size": "30",
 
     "Text 1 Color": "White",
     "Text 2 Color": "White",
 
     "Text 1 Align": "center",
     "Text 2 Align": "center",
+ 
+    "Text 1 Pos X": "562.5",
+    "Text 2 Pos X": "562.5",
 
-    "Text 1 Pos X": "",
-    "Text 2 Pos X": "",
-
-    "Text 1 Pos Y": "",
-    "Text 2 Pos Y": "",
+    "Text 1 Pos Y": "2208",
+    "Text 2 Pos Y": "2252",
 
     "Saturation": "150",
     "Blur": "22"
@@ -105,8 +105,8 @@
    },
 
   "XSM": {
-    "Text 1 Size": "",
-    "Text 2 Size": "",
+    "Text 1 Size": "43",
+    "Text 2 Size": "35",
 
     "Text 1 Color": "White",
     "Text 2 Color": "White",
@@ -114,11 +114,11 @@
     "Text 1 Align": "center",
     "Text 2 Align": "center",
 
-    "Text 1 Pos X": "",
-    "Text 2 Pos X": "",
+    "Text 1 Pos X": "621",
+    "Text 2 Pos X": "621",
 
-    "Text 1 Pos Y": "",
-    "Text 2 Pos Y": "",
+    "Text 1 Pos Y": "2458",
+    "Text 2 Pos Y": "2480",
 
     "Saturation": "150",
     "Blur": "22"
