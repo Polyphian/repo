@@ -1,0 +1,24 @@
+{
+  "Mostly Cloudy": "В основном облачно",
+  "Scattered Showers": "Небольшие осадки",
+  "Isolated Thundershowers": "Грозовые ливни",
+  "Light Snowshowers": "Небольшой снегопад",
+  "Mixed Snow and Sleet": "Мокрый снег",
+  "Partly Cloudy": "Переменная облачность",
+  "Rain": "Дождь",
+  "Mixed Rain and Snow": "Снег с дождём",
+  "Clear": "Чистое небо",
+  "Isolated Thunderstorms": "Грозы",
+  "Freezing Rain": "Ледяной дождь",
+  "Foggy": "Туман",
+  "Snow": "Снег",
+  "Thunderstorms": "Грозы",
+  "Scattered Snow Showers": "Местами снегопад",
+  "precip": "Вероятность дождя",
+  "Cloudy": "Облачно",
+  "Windy": "Ветрено",
+  "Showers": "Ливни",
+  "Mostly Clear": "В основном ясно",
+  "Scattered Thunderstorms": "Местами грозы"
+
+
