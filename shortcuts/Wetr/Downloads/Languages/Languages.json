@@ -1,5 +1,10 @@
 {
+  "中国人": "Chinese",
   "Default": "English",
   "Français": "French",
-  "Deutsch": "German"
-  }
+  "Deutsch": "German",
+  "Bahasa Indonesia": "Indonesian",
+  "Pусский": "Russian",
+  "Español": "Spanish",
+  "Українська": "Ukrainian",
+}
