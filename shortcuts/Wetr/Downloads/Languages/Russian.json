@@ -19,6 +19,8 @@
   "Windy": "Ветрено",
   "Showers": "Ливни",
   "Mostly Clear": "В основном ясно",
-  "Scattered Thunderstorms": "Местами грозы"
+  "Scattered Thunderstorms": "Местами грозы",
+  "flipString": "false"
+}
 
 

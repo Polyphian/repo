@@ -19,5 +19,6 @@
   "Windy": "X",
   "Showers": "X",
   "Mostly Clear": "X",
-  "Scattered Thunderstorms": "X"
+  "Scattered Thunderstorms": "X",
+  "flipString": "false"
   }

@@ -19,5 +19,6 @@
   "Windy": "바람이 많이 부는",
   "Showers": "소나기",
   "Mostly Clear": "대체로 맑음",
-  "Scattered Thunderstorms": "산발성 뇌우"
+  "Scattered Thunderstorms": "산발성 뇌우",
+  "flipString": "true"
 }

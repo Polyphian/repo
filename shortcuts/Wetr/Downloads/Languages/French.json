@@ -19,5 +19,6 @@
   "Windy": "Venteux",
   "Showers": "Averses",
   "Mostly Clear": "Généralement dégagé",
-  "Scattered Thunderstorms": "Des Orages"
+  "Scattered Thunderstorms": "Des Orages",
+  "flipString": "true"
 }
