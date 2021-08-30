@@ -1,12 +1,10 @@
 {
-  "中国人": "Chinese",
   "Default": "English",
   "Français": "French",
   "Deutsch": "German",
-  "Bahasa Indonesia": "Indonesian",
-  "日本語": "Japanese",
   "한국인": "Korean",
+  "Norsk": "Norwegian",
+  "Polskie": "Polish",
   "Pусский": "Russian",
-  "Español": "Spanish",
-  "Українська": "Ukrainian",
+  "Español": "Spanish"
 }
