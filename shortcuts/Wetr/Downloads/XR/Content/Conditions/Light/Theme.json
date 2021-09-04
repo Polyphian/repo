@@ -17,8 +17,8 @@
     "Text 1 Pos Y": "2294",
     "Text 2 Pos Y": "2345",
 
-    "Saturation": "150",
-    "Blur": "22"
+    "Saturation": "280",
+    "Blur": "62"
    },
 
 
@@ -38,8 +38,8 @@
     "Text 1 Pos Y": "2208",
     "Text 2 Pos Y": "2252",
 
-    "Saturation": "150",
-    "Blur": "22"
+    "Saturation": "280",
+    "Blur": "62"
    },
 
 
@@ -60,8 +60,8 @@
     "Text 1 Pos Y": "2512",
     "Text 2 Pos Y": "2563",
 
-    "Saturation": "150",
-    "Blur": "22"
+    "Saturation": "280",
+    "Blur": "62"
    },
 
   "X": {
@@ -80,8 +80,8 @@
     "Text 1 Pos Y": "2208",
     "Text 2 Pos Y": "2252",
 
-    "Saturation": "150",
-    "Blur": "22"
+    "Saturation": "280",
+    "Blur": "62"
    },
 
   "XR": {
@@ -100,8 +100,8 @@
     "Text 1 Pos Y": "1625",
     "Text 2 Pos Y": "1654",
 
-    "Saturation": "150",
-    "Blur": "22"
+    "Saturation": "280",
+    "Blur": "62"
    },
 
   "XSM": {
@@ -120,8 +120,8 @@
     "Text 1 Pos Y": "2430",
     "Text 2 Pos Y": "2472",
 
-    "Saturation": "150",
-    "Blur": "22"
+    "Saturation": "280",
+    "Blur": "62"
    }
 
 }
