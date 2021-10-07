@@ -1,0 +1,127 @@
+{
+
+
+  "12": {
+    "Text 1 Size": "43",
+    "Text 2 Size": "35",
+
+    "Text 1 Color": "Black",
+    "Text 2 Color": "Black",
+
+    "Text 1 Align": "center",
+    "Text 2 Align": "center",
+
+    "Text 1 Pos X": "585",
+    "Text 2 Pos X": "585",
+
+    "Text 1 Pos Y": "2294",
+    "Text 2 Pos Y": "2345",
+
+    "Saturation": "280",
+    "Blur": "62"
+   },
+
+
+  "12m": {
+    "Text 1 Size": "42",
+    "Text 2 Size": "30",
+
+    "Text 1 Color": "Black",
+    "Text 2 Color": "Black",
+
+    "Text 1 Align": "center",
+    "Text 2 Align": "center",
+ 
+    "Text 1 Pos X": "562.5",
+    "Text 2 Pos X": "562.5",
+
+    "Text 1 Pos Y": "2208",
+    "Text 2 Pos Y": "2252",
+
+    "Saturation": "280",
+    "Blur": "62"
+   },
+
+
+
+  "12PM": {
+    "Text 1 Size": "43",
+    "Text 2 Size": "35",
+
+    "Text 1 Color": "Black",
+    "Text 2 Color": "Black",
+
+    "Text 1 Align": "center",
+    "Text 2 Align": "center",
+
+    "Text 1 Pos X": "642",
+    "Text 2 Pos X": "642",
+
+    "Text 1 Pos Y": "2512",
+    "Text 2 Pos Y": "2563",
+
+    "Saturation": "280",
+    "Blur": "62"
+   },
+
+  "X": {
+    "Text 1 Size": "42",
+    "Text 2 Size": "30",
+
+    "Text 1 Color": "Black",
+    "Text 2 Color": "Black",
+
+    "Text 1 Align": "center",
+    "Text 2 Align": "center",
+ 
+    "Text 1 Pos X": "562.5",
+    "Text 2 Pos X": "562.5",
+
+    "Text 1 Pos Y": "2208",
+    "Text 2 Pos Y": "2252",
+
+    "Saturation": "280",
+    "Blur": "62"
+   },
+
+  "XR": {
+    "Text 1 Size": "30",
+    "Text 2 Size": "22",
+
+    "Text 1 Color": "Black",
+    "Text 2 Color": "Black",
+
+    "Text 1 Align": "center",
+    "Text 2 Align": "center",
+
+    "Text 1 Pos X": "414",
+    "Text 2 Pos X": "414",
+
+    "Text 1 Pos Y": "1625",
+    "Text 2 Pos Y": "1654",
+
+    "Saturation": "280",
+    "Blur": "62"
+   },
+
+  "XSM": {
+    "Text 1 Size": "43",
+    "Text 2 Size": "35",
+
+    "Text 1 Color": "Black",
+    "Text 2 Color": "Black",
+
+    "Text 1 Align": "center",
+    "Text 2 Align": "center",
+
+    "Text 1 Pos X": "621",
+    "Text 2 Pos X": "621",
+
+    "Text 1 Pos Y": "2430",
+    "Text 2 Pos Y": "2472",
+
+    "Saturation": "280",
+    "Blur": "62"
+   }
+
+}
