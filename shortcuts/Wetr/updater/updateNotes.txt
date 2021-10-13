@@ -6,5 +6,10 @@ ______________
 • Dust & Smoke conditions added. This should fix some "CondImage" errors for English users.
 
 
+         0.5.1
+______________
+
+• Forgot to add Dust & Smoke conditions to the language dictionary. Whoops!
+
 
 !!! If you were using custom made translations, you might want to ignore this version. !!!
