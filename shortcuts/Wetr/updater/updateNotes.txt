@@ -5,3 +5,6 @@ ______________
 
 • Dust & Smoke conditions added. This should fix some "CondImage" errors for English users.
 
+
+
+!!! If you were using custom made translations, you might want to ignore this version. !!!
