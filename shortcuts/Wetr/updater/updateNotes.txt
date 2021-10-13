@@ -1,0 +1,1 @@
+Shortcut no longer requires downloading Content.zip. It'll now download condition images for your selected theme as needed, and only if they haven't been used before.
