@@ -4,3 +4,7 @@ ______________
 • Heavy Rain condition and overlay added.
 
 • Combed through every single image for all devices to double check every condition image and mask aligned perfectly, even if they were off half a pixel, it's been fixed. 
+
+______________
+
+0.6.1 implements a plan B in the event Auto walls aren't being returned from Unsplash due to downtime or maintenance.
