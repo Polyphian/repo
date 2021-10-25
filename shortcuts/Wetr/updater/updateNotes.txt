@@ -1,15 +1,6 @@
-What's new in Wetr 0.5?
+What's new in Wetr 0.6?
 ______________
 
-• Shortcut no longer requires downloading Content.zip. It'll now download condition images for your selected theme as needed, and only if they haven't been used before.
+• Heavy Rain condition and overlay added.
 
-• Dust & Smoke conditions added. This should fix some "CondImage" errors for English users.
-
-
-         0.5.1
-______________
-
-• Forgot to add Dust & Smoke conditions to the language dictionary. Whoops!
-
-
-!!! If you were using custom made translations, you might want to ignore this version. !!!
+• Combed through every single image for all devices to double check every condition image and mask aligned perfectly, even if they were off half a pixel, it's been fixed. 
