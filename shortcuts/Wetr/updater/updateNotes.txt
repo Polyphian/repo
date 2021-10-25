@@ -11,4 +11,4 @@ ______________
 
 ______________
 
-0.6.2 renames 'Mini' devices to 'mini' to fix them showing as non-compatible.
+0.6.3 adjusts some text placement values and image dimensions for both mini devices. This *should* help fix users who weren't seeing any weather text on the image.
