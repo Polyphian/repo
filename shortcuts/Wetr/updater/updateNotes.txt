@@ -8,3 +8,7 @@ ______________
 ______________
 
 0.6.1 implements a plan B in the event Auto walls aren't being returned from Unsplash due to downtime or maintenance.
+
+______________
+
+0.6.2 renames 'Mini' devices to 'mini' to fix them showing as non-compatible.
