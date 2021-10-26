@@ -1,18 +1,4 @@
 What's new in Wetr 0.6?
 ______________
 
-• Heavy Rain condition and overlay added.
-
-• Combed through every single image for all devices to double check every condition image and mask aligned perfectly, even if they were off half a pixel, it's been fixed. 
-
-______________
-
-0.6.1 implements a plan B in the event Auto walls aren't being returned from Unsplash due to downtime or maintenance.
-
-______________
-
-0.6.3 adjusts some text placement values and image dimensions for both mini devices. This *should* help fix users who weren't seeing any weather text on the image.
-
-______________
-
 0.6.4 will no longer attempt to create folders if they already exist. This is something Apple should've fixed, but guess I gotta do it myself. 'Create Folder' actions were causing Wetr to hang majority of the time.
