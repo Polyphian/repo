@@ -2,3 +2,7 @@ What's new in Wetr 0.6?
 ______________
 
 0.6.4 will no longer attempt to create folders if they already exist. This is something Apple should've fixed, but guess I gotta do it myself. 'Create Folder' actions were causing Wetr to hang majority of the time.
+
+______________
+
+0.6.5 adds Smoky condition.
