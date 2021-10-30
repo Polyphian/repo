@@ -6,3 +6,7 @@ ______________
 ______________
 
 0.6.5 adds Smoky condition.
+
+______________
+
+0.6.6 fixes Light Snow Showers.
