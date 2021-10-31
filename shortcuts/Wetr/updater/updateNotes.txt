@@ -10,3 +10,7 @@ ______________
 ______________
 
 0.6.6 fixes Light Snow Showers.
+
+______________
+
+0.6.7 adds Drizzle, because some users are reporting Drizzle errors even though I can't get it to report Drizzle.
