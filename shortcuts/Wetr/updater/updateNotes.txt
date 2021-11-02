@@ -1,16 +1,4 @@
 What's new in Wetr 0.6?
 ______________
 
-0.6.4 will no longer attempt to create folders if they already exist. This is something Apple should've fixed, but guess I gotta do it myself. 'Create Folder' actions were causing Wetr to hang majority of the time.
-
-______________
-
-0.6.5 adds Smoky condition.
-
-______________
-
-0.6.6 fixes Light Snow Showers.
-
-______________
-
-0.6.7 adds Drizzle, because some users are reporting Drizzle errors even though I can't get it to report Drizzle.
+0.6.8 fixes many things behind the scenes. Alignment, conditions spellings, missing conditions, etc.
