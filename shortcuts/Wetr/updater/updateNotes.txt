@@ -1,4 +1,8 @@
-What's new in Wetr 0.6?
+What's new in Wetr 0.7?
 ______________
 
-0.6.8 fixes many things behind the scenes. Alignment, conditions spellings, missing conditions, etc.
+• Removed Unsplash wallpapers. Unsplash closed their public API and restricted/limited access.
+
+• New method for prompting user to select photo album on first run.
+
+• Removes any blank space characters from any user settings to help alleviate user error.
