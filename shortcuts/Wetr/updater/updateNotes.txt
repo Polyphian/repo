@@ -1,8 +1,4 @@
 What's new in Wetr 0.7?
 ______________
 
-• Removed Unsplash wallpapers. Unsplash closed their public API and restricted/limited access.
-
-• New method for prompting user to select photo album on first run.
-
-• Removes any blank space characters from any user settings to help alleviate user error.
+• Unsplash automatic wallpapers are back. Their server went down and I thought they were no longer supporting the API so I removed it. But we're back in business. Enjoy!
