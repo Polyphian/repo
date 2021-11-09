@@ -1,4 +1,7 @@
 What's new in Wetr 0.7?
 ______________
 
-• Unsplash automatic wallpapers are back. Their server went down and I thought they were no longer supporting the API so I removed it. But we're back in business. Enjoy!
+NEW FEATURE:
+While weather condition is Clear, Wetr will now display Sunny or Starry overlays depending on the time of day.
+
+• More auto-formatting to further prevent potential user input error.
