@@ -1,7 +1,14 @@
-What's new in Wetr 0.8?
+What's new in Wetr 0.9?
 ______________
 
-NEW FEATURE:
-While weather condition is Clear, Wetr will now display Sunny or Starry overlays depending on the time of day.
+Light Mode Revamp:
+Light mode now is slightly more see through with a better blur.
 
-• More auto-formatting to further prevent potential user input error.
+• Changed some values in the shortcut to adjust the blur and saturation for Light mode.
+
+• To accompany those changes, I updated the images on the server to better fit these new values.
+
+
+!!!!!!!!!!!!!!!
+!! If you used Light mode before, delete the Light theme folder and new images will download !!
+!!!!!!!!!!!!!!!
