@@ -1,14 +1,15 @@
-What's new in Wetr 0.9?
+What's new in Wetr 0.10?
 ______________
 
+NEW THEMES:
+• Clear
+• Auto (uses Light or Dark theme depending on if the sun is up)
+
 Light Mode Revamp:
-Light mode now is slightly more see through with a better blur.
+• Light mode has again been touched up to look even better.
+(You may need to delete Light theme folder to get new images)
 
-• Changed some values in the shortcut to adjust the blur and saturation for Light mode.
-
-• To accompany those changes, I updated the images on the server to better fit these new values.
-
-
-!!!!!!!!!!!!!!!
-!! If you used Light mode before, delete the Light theme folder and new images will download !!
-!!!!!!!!!!!!!!!
+NEW FEATURES:
+• Automatically control your system appearance (Dark/Light Mode)
+• Show the time Wetr last refreshed your wallpaper
+• Fonts! A variety of system fonts can now be used
