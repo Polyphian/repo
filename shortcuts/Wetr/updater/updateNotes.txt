@@ -13,3 +13,5 @@ NEW FEATURES:
 • Automatically control your system appearance (Dark/Light Mode)
 • Show the time Wetr last refreshed your wallpaper
 • Fonts! A variety of system fonts can now be used
+____________
+0.10.1 fixes text position for Clear theme for a few devices
