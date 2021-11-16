@@ -15,3 +15,5 @@ NEW FEATURES:
 • Fonts! A variety of system fonts can now be used
 ____________
 0.10.1 fixes text position for Clear theme for a few devices
+____________
+0.10.2 adds 'Blowing Snow' condition overlay.
