@@ -1,6 +1,9 @@
 What's new in Wetr 0.10?
 ______________
 
+0.10.3
+I left an incorrect variable in last update that forced wrong device layouts. Please delete your Wetr folder from your Shortcuts folder to fix any alignment issues. SORRY!
+
 NEW THEMES:
 • Clear
 • Auto (uses Light or Dark theme depending on if the sun is up)
