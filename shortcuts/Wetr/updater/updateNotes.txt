@@ -1,22 +1,12 @@
-What's new in Wetr 0.10?
+What's new in Wetr 0.11?
 ______________
 
-0.10.3
-I left an incorrect variable in last update that forced wrong device layouts. Please delete your Wetr folder from your Shortcuts folder to fix any alignment issues. SORRY!
-
-NEW THEMES:
-• Clear
-• Auto (uses Light or Dark theme depending on if the sun is up)
-
-Light Mode Revamp:
-• Light mode has again been touched up to look even better.
-(You may need to delete Light theme folder to get new images)
-
-NEW FEATURES:
-• Automatically control your system appearance (Dark/Light Mode)
-• Show the time Wetr last refreshed your wallpaper
-• Fonts! A variety of system fonts can now be used
-____________
-0.10.1 fixes text position for Clear theme for a few devices
-____________
-0.10.2 adds 'Blowing Snow' condition overlay.
+• Match Homescreen wallpaper to Lockscreen
+• Optionally blur the Homescreen wallpaper
+• AM/PM added for update stat
+• 12 or 24 hr format option
+• Wallpaper Themes
+    • Auto (curated favorite wallpapers from Wetr's creator)
+    • Weather (matches wallpaper to images of the current weather)
+    • Custom (user selected photo album)
+    • * anything * (use any query as your wallpaper subject)
