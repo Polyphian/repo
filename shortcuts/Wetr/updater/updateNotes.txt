@@ -1,4 +1,6 @@
 What's new in Wetr 0.12?
 ______________
 
-•
+• New Theme: Minimal
+• Homescreen Creator Support
+• Better logic for determining rain or snow
