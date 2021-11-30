@@ -1,12 +1,4 @@
-What's new in Wetr 0.11?
+What's new in Wetr 0.12?
 ______________
 
-• Match Homescreen wallpaper to Lockscreen
-• Optionally blur the Homescreen wallpaper
-• AM/PM added for update stat
-• 12 or 24 hr format option
-• Wallpaper Themes
-    • Auto (curated favorite wallpapers from Wetr's creator)
-    • Weather (matches wallpaper to images of the current weather)
-    • Custom (user selected photo album)
-    • * anything * (use any query as your wallpaper subject)
+•
