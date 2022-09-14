@@ -1,6 +1,4 @@
-What's new in Wetr 0.12?
+What's new in Wetr 0.13?
 ______________
 
-• New Theme: Minimal
-• Homescreen Creator Support
-• Better logic for determining rain or snow
+• Multiples precipitation chance decimal number by 100 on iOS 16.
