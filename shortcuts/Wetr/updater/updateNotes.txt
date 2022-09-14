@@ -1,4 +1,4 @@
 What's new in Wetr 0.13?
 ______________
 
-• Multiples precipitation chance decimal number by 100 on iOS 16.
+• Multiplies precipitation chance decimal number by 100 on iOS 16.
